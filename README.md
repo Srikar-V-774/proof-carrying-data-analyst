@@ -323,7 +323,10 @@ Designed to test more difficult cases involving:
 
 ## 🖥️ Screenshots
 
+<img width="1707" height="993" alt="Screenshot 2026-10-07 at 4 03 51 PM" src="https://github.com/user-attachments/assets/0d1f0c63-aab6-4be6-985e-3585d0e37685" />
 
+
+<img width="1697" height="754" alt="Screenshot 2026-10-07 at 4 04 06 PM" src="https://github.com/user-attachments/assets/ed672fdd-c547-4d57-803c-2a545723281f" />
 
 ---
 
