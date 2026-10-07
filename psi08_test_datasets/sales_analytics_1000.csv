@@ -1,0 +1,1001 @@
+order_id,order_date,customer,region,product,category,quantity,unit_price,discount,total_amount,payment_method,order_status
+ORD00350,2026-05-12,Rahul,Central,Office Chair,Furniture,5,18736.13,0.05,88996.62,UPI,Cancelled
+ORD00588,2026-06-22,Diya,Central,Backpack,Accessories,3,3271.68,0.15,8342.78,Credit Card,Completed
+ORD00542,2026-07-18,Kabir,South,Backpack,Accessories,2,2970.36,0.15,5049.61,UPI,Completed
+ORD00967,2026-01-14,Rahul,South,Tablet,Electronics,3,45439.11,0.15,115869.73,UPI,Cancelled
+ORD00582,2026-09-19,Arjun,East,Smart Watch,Electronics,3,8035.42,0.05,22900.95,UPI,Completed
+ORD00597,2026-09-17,Rahul,West,Laptop,Electronics,2,64371.68,0.15,109431.86,Cash,Completed
+ORD00288,2026-03-25,Aarav,East,Smart Watch,Electronics,2,8747.15,0.05,16619.58,Credit Card,Completed
+ORD00067,2026-07-04,Varun,South,Smart Watch,Electronics,4,10280.24,0,41120.96,Credit Card,Cancelled
+ORD00510,2026-05-09,Tanya,West,Mouse,Accessories,5,2769.26,0,13846.3,Cash,Pending
+ORD00207,2026-06-08,Aditya,West,Backpack,Accessories,4,1631.92,0.15,5548.53,Cash,Completed
+ORD00806,2026-06-14,Ishita,West,Smart Watch,Electronics,3,6468.25,0.15,16494.04,Credit Card,Completed
+ORD00959,2026-04-04,Rahul,Central,Backpack,Accessories,1,4937.17,0,4937.17,Credit Card,Pending
+ORD00941,2026-07-20,Diya,North,Tablet,Electronics,4,29645.02,0.15,100793.07,Credit Card,Completed
+ORD00555,2026-01-28,Ananya,South,Desk,Furniture,4,24705.95,0,98823.8,Debit Card,Completed
+ORD00746,2026-03-26,Diya,South,Headphones,Electronics,1,3757.72,0.1,3381.95,UPI,Cancelled
+ORD00365,2026-06-27,Diya,Central,Desk,Furniture,2,15262.14,0,30524.28,Debit Card,Cancelled
+ORD00162,2026-07-18,Ananya,East,Headphones,Electronics,3,8735.1,0.1,23584.77,UPI,Completed
+ORD00035,2026-09-14,Diya,East,Office Chair,Furniture,2,9996.21,0.1,17993.18,Debit Card,Completed
+ORD00884,2026-04-14,Diya,East,Headphones,Electronics,3,6170.8,0.05,17586.78,Debit Card,Completed
+ORD00388,2026-01-25,Rahul,East,Office Chair,Furniture,5,21806.22,0.05,103579.54,Net Banking,Completed
+ORD00271,2026-03-23,Tanya,East,Keyboard,Accessories,5,1605.6,0,8028.0,Net Banking,Completed
+ORD00280,2026-05-31,Ananya,East,Backpack,Accessories,4,4579.07,0.1,16484.65,Cash,Completed
+ORD00689,2026-01-23,Varun,South,Headphones,Electronics,5,2523.93,0.05,11988.67,Credit Card,Pending
+ORD00791,2026-06-22,Kabir,West,Tablet,Electronics,3,54275.98,0.05,154686.54,Net Banking,Completed
+ORD00499,2026-05-07,Ishita,South,Keyboard,Accessories,5,4936.65,0.15,20980.76,UPI,Completed
+ORD00083,2026-07-02,Aarav,West,Headphones,Electronics,3,1560.5,0,4681.5,UPI,Cancelled
+ORD00855,2026-06-16,Ananya,East,Mouse,Accessories,3,438.65,0.15,1118.56,Credit Card,Pending
+ORD00921,2026-03-26,Arjun,West,Smart Watch,Electronics,1,10108.04,0.05,9602.64,Net Banking,Completed
+ORD00077,2026-05-16,Arjun,North,Smart Watch,Electronics,1,11008.37,0.05,10457.95,Credit Card,Completed
+ORD00467,2026-02-01,Nisha,South,Monitor,Electronics,5,19625.42,0,98127.1,Cash,Completed
+ORD00097,2026-08-24,Karan,West,Monitor,Electronics,4,34918.78,0.15,118723.85,UPI,Pending
+ORD00316,2026-04-17,Priya,West,Monitor,Electronics,2,20452.82,0,40905.64,Cash,Cancelled
+ORD00033,2026-08-09,Tanya,North,Smart Watch,Electronics,1,8744.7,0.1,7870.23,Cash,Completed
+ORD00249,2026-04-24,Aditya,North,Monitor,Electronics,2,16534.48,0.05,31415.51,Debit Card,Completed
+ORD00124,2026-04-22,Rohan,South,Headphones,Electronics,1,2226.17,0,2226.17,UPI,Completed
+ORD00238,2026-04-06,Karan,Central,Desk,Furniture,2,13361.23,0.15,22714.09,UPI,Completed
+ORD00848,2026-07-23,Karan,East,Smart Watch,Electronics,2,3965.76,0.15,6741.79,Cash,Completed
+ORD00915,2026-05-27,Aarav,North,Smart Watch,Electronics,1,5152.88,0,5152.88,Net Banking,Completed
+ORD00957,2026-06-12,Aarav,West,Laptop,Electronics,1,77518.22,0.1,69766.4,Net Banking,Completed
+ORD00478,2026-03-10,Rohan,Central,Office Chair,Furniture,2,10095.04,0.15,17161.57,Net Banking,Completed
+ORD00332,2026-07-22,Priya,Central,Headphones,Electronics,5,3351.69,0.05,15920.53,Credit Card,Completed
+ORD00102,2026-06-25,Nisha,North,Monitor,Electronics,2,25781.54,0.15,43828.62,Cash,Pending
+ORD00976,2026-06-24,Varun,West,Mouse,Accessories,2,2440.48,0.05,4636.91,Cash,Cancelled
+ORD00153,2026-07-23,Aarav,South,Backpack,Accessories,1,1426.07,0.1,1283.46,Net Banking,Completed
+ORD00529,2026-07-27,Meera,West,Tablet,Electronics,1,50756.76,0.05,48218.92,Net Banking,Completed
+ORD00996,2026-08-27,Arjun,South,Mouse,Accessories,5,1254.51,0.15,5331.67,Cash,Completed
+ORD00515,2026-04-08,Nisha,South,Tablet,Electronics,2,34545.28,0.1,62181.5,UPI,Completed
+ORD00798,2026-05-07,Karan,Central,Backpack,Accessories,3,2901.02,0.15,7397.6,UPI,Pending
+ORD00170,2026-06-18,Meera,North,Desk,Furniture,5,26588.04,0.1,119646.18,Net Banking,Pending
+ORD00511,2026-05-15,Diya,East,Headphones,Electronics,4,1849.65,0,7398.6,Cash,Completed
+ORD00155,2026-08-31,Varun,East,Headphones,Electronics,4,4553.71,0,18214.84,Cash,Cancelled
+ORD00172,2026-01-28,Rahul,West,Mouse,Accessories,3,1198.95,0,3596.85,Credit Card,Cancelled
+ORD00889,2026-09-17,Aarav,Central,Monitor,Electronics,1,20429.43,0.15,17365.02,Credit Card,Pending
+ORD00473,2026-05-11,Aarav,East,Headphones,Electronics,2,4957.21,0.1,8922.98,Debit Card,Completed
+ORD00158,2026-06-28,Aarav,Central,Mouse,Accessories,5,1174.58,0.1,5285.61,UPI,Pending
+ORD00607,2026-05-09,Ananya,West,Headphones,Electronics,4,5140.95,0,20563.8,Debit Card,Completed
+ORD00127,2026-02-23,Tanya,North,Mouse,Accessories,5,1957.17,0.15,8317.97,Net Banking,Pending
+ORD00551,2026-03-04,Rohan,West,Laptop,Electronics,4,89449.32,0.05,339907.42,Cash,Completed
+ORD00192,2026-03-19,Aarav,Central,Desk,Furniture,3,18502.71,0.1,49957.32,Net Banking,Completed
+ORD00602,2026-08-27,Meera,South,Mouse,Accessories,3,978.22,0.05,2787.93,Net Banking,Completed
+ORD00512,2026-07-21,Aditya,Central,Monitor,Electronics,3,24235.37,0.1,65435.5,Debit Card,Completed
+ORD00024,2026-02-12,Ananya,North,Keyboard,Accessories,3,1873.15,0.05,5338.48,Debit Card,Completed
+ORD00294,2026-09-16,Priya,North,Tablet,Electronics,5,25385.06,0.15,107886.51,Debit Card,Pending
+ORD00120,2026-04-12,Aarav,West,Office Chair,Furniture,4,9960.55,0.1,35857.98,Debit Card,Completed
+ORD00012,2026-09-26,Priya,South,Laptop,Electronics,3,55169.9,0.05,157234.21,Net Banking,Completed
+ORD00340,2026-05-28,Aditya,West,Desk,Furniture,2,16411.3,0.05,31181.47,Net Banking,Pending
+ORD00262,2026-04-07,Rahul,Central,Desk,Furniture,1,29377.14,0.05,27908.28,Credit Card,Completed
+ORD00111,2026-04-01,Aarav,West,Tablet,Electronics,3,38331.37,0.05,109244.4,Debit Card,Cancelled
+ORD00224,2026-07-11,Tanya,Central,Headphones,Electronics,1,7420.73,0,7420.73,Debit Card,Completed
+ORD00086,2026-06-28,Priya,East,Office Chair,Furniture,5,17974.0,0,89870.0,Cash,Cancelled
+ORD00656,2026-04-15,Arjun,North,Mouse,Accessories,2,2434.82,0,4869.64,UPI,Completed
+ORD00866,2026-02-09,Aarav,North,Monitor,Electronics,1,16156.04,0.15,13732.63,Debit Card,Completed
+ORD00466,2026-05-01,Diya,North,Headphones,Electronics,1,8492.51,0.15,7218.63,Net Banking,Completed
+ORD00171,2026-02-24,Aarav,North,Mouse,Accessories,2,2479.59,0.05,4711.22,Debit Card,Completed
+ORD00226,2026-06-15,Sneha,Central,Mouse,Accessories,3,2859.57,0,8578.71,Debit Card,Pending
+ORD00480,2026-09-02,Aarav,South,Headphones,Electronics,4,2791.5,0.1,10049.4,Cash,Completed
+ORD00181,2026-04-11,Ishita,West,Monitor,Electronics,4,27617.46,0.15,93899.36,Credit Card,Cancelled
+ORD00727,2026-02-04,Nisha,West,Smart Watch,Electronics,2,8803.09,0.05,16725.87,Cash,Completed
+ORD00037,2026-08-27,Priya,North,Monitor,Electronics,5,9169.07,0.1,41260.82,Debit Card,Completed
+ORD00880,2026-04-23,Kabir,Central,Smart Watch,Electronics,2,3685.9,0.1,6634.62,Cash,Pending
+ORD00446,2026-05-03,Aditya,East,Mouse,Accessories,5,2704.86,0.15,11495.66,UPI,Pending
+ORD00802,2026-05-23,Diya,West,Mouse,Accessories,2,2549.8,0.15,4334.66,UPI,Pending
+ORD00410,2026-06-17,Kabir,South,Keyboard,Accessories,3,1081.51,0.15,2757.85,Debit Card,Completed
+ORD00636,2026-05-05,Nisha,South,Mouse,Accessories,4,1089.37,0.05,4139.61,Net Banking,Completed
+ORD00929,2026-06-30,Arjun,South,Backpack,Accessories,5,2221.4,0,11107.0,Net Banking,Completed
+ORD00837,2026-06-24,Aditya,Central,Mouse,Accessories,4,1292.25,0,5169.0,Debit Card,Completed
+ORD00053,2026-07-13,Aarav,South,Keyboard,Accessories,4,804.96,0.05,3058.85,Debit Card,Completed
+ORD00201,2026-04-25,Rohan,Central,Office Chair,Furniture,3,19905.86,0.05,56731.7,Debit Card,Completed
+ORD00233,2026-09-14,Karan,East,Desk,Furniture,3,15280.09,0.15,38964.23,Net Banking,Completed
+ORD00740,2026-04-20,Rahul,North,Monitor,Electronics,2,10030.21,0.05,19057.4,Cash,Pending
+ORD00547,2026-09-11,Varun,North,Backpack,Accessories,1,978.22,0,978.22,UPI,Completed
+ORD00844,2026-03-13,Tanya,West,Backpack,Accessories,3,2659.45,0.1,7180.51,Credit Card,Completed
+ORD00219,2026-09-26,Varun,Central,Laptop,Electronics,3,67301.98,0.05,191810.64,Net Banking,Completed
+ORD00617,2026-04-03,Tanya,West,Monitor,Electronics,3,17244.98,0.1,46561.45,UPI,Cancelled
+ORD00818,2026-03-17,Ananya,Central,Mouse,Accessories,4,2298.62,0.05,8734.76,Cash,Completed
+ORD00962,2026-02-03,Rohan,East,Backpack,Accessories,1,1762.44,0.05,1674.32,Cash,Completed
+ORD00402,2026-06-16,Ishita,West,Office Chair,Furniture,5,17435.54,0,87177.7,Credit Card,Pending
+ORD00215,2026-01-29,Karan,West,Tablet,Electronics,1,40468.98,0.15,34398.63,Net Banking,Completed
+ORD00531,2026-06-16,Varun,East,Office Chair,Furniture,4,20099.75,0,80399.0,Debit Card,Completed
+ORD00581,2026-01-19,Tanya,West,Keyboard,Accessories,3,2777.37,0.05,7915.5,Debit Card,Completed
+ORD00841,2026-08-20,Meera,South,Smart Watch,Electronics,4,14142.82,0.15,48085.59,Net Banking,Completed
+ORD00106,2026-03-11,Aarav,North,Headphones,Electronics,3,5240.17,0.1,14148.46,Net Banking,Pending
+ORD00774,2026-09-30,Aarav,East,Backpack,Accessories,2,4270.08,0.05,8113.15,Net Banking,Pending
+ORD00652,2026-08-12,Rahul,Central,Office Chair,Furniture,4,19641.63,0.05,74638.19,Cash,Completed
+ORD00947,2026-06-22,Aarav,East,Backpack,Accessories,2,2521.5,0,5043.0,UPI,Completed
+ORD00977,2026-06-09,Varun,Central,Headphones,Electronics,2,2683.85,0.1,4830.93,Cash,Completed
+ORD00161,2026-09-17,Priya,North,Tablet,Electronics,2,26679.63,0.05,50691.3,Credit Card,Pending
+ORD00717,2026-05-27,Meera,Central,Smart Watch,Electronics,2,10943.61,0,21887.22,UPI,Completed
+ORD00246,2026-07-25,Rahul,East,Keyboard,Accessories,4,4295.46,0,17181.84,Credit Card,Cancelled
+ORD00513,2026-02-12,Rohan,South,Keyboard,Accessories,2,3481.3,0.15,5918.21,Credit Card,Cancelled
+ORD00517,2026-02-03,Varun,Central,Mouse,Accessories,2,2873.06,0.1,5171.51,UPI,Completed
+ORD00714,2026-01-21,Ananya,West,Desk,Furniture,3,12138.22,0.1,32773.19,Debit Card,Completed
+ORD00194,2026-01-30,Ishita,Central,Desk,Furniture,5,14823.66,0.05,70412.38,Debit Card,Cancelled
+ORD00485,2026-02-06,Diya,South,Monitor,Electronics,5,22970.27,0.1,103366.22,UPI,Completed
+ORD00563,2026-03-23,Karan,South,Laptop,Electronics,5,66454.45,0.15,282431.41,Cash,Completed
+ORD00562,2026-01-26,Rahul,East,Backpack,Accessories,3,3683.3,0,11049.9,Credit Card,Pending
+ORD00123,2026-02-12,Meera,North,Headphones,Electronics,3,3177.25,0.15,8101.99,UPI,Completed
+ORD00648,2026-04-16,Aarav,Central,Keyboard,Accessories,4,3097.17,0.1,11149.81,UPI,Cancelled
+ORD00519,2026-06-07,Karan,South,Desk,Furniture,5,8827.42,0.05,41930.24,Net Banking,Completed
+ORD00819,2026-09-06,Aarav,West,Desk,Furniture,4,12642.94,0,50571.76,UPI,Completed
+ORD00426,2026-03-07,Rahul,East,Monitor,Electronics,3,10025.98,0.05,28574.04,Net Banking,Completed
+ORD00958,2026-03-19,Karan,West,Headphones,Electronics,5,5204.71,0.15,22120.02,Credit Card,Completed
+ORD00272,2026-03-20,Aarav,West,Tablet,Electronics,1,37529.79,0.1,33776.81,Cash,Completed
+ORD00910,2026-06-09,Varun,East,Laptop,Electronics,1,61737.12,0.15,52476.55,Cash,Completed
+ORD00619,2026-07-26,Aarav,North,Office Chair,Furniture,3,15395.45,0.15,39258.4,Cash,Completed
+ORD00639,2026-07-24,Varun,South,Monitor,Electronics,3,25934.52,0.05,73913.38,Credit Card,Completed
+ORD00834,2026-04-12,Meera,North,Desk,Furniture,3,23620.58,0.15,60232.48,UPI,Cancelled
+ORD00496,2026-07-26,Kabir,North,Headphones,Electronics,2,6606.7,0.1,11892.06,Net Banking,Cancelled
+ORD00755,2026-05-07,Rahul,East,Office Chair,Furniture,5,7844.38,0.15,33338.61,Net Banking,Completed
+ORD00912,2026-02-19,Meera,Central,Smart Watch,Electronics,4,2745.76,0.1,9884.74,UPI,Cancelled
+ORD00578,2026-02-26,Varun,South,Office Chair,Furniture,1,9642.85,0.05,9160.71,Cash,Cancelled
+ORD00159,2026-08-04,Karan,South,Headphones,Electronics,4,8229.01,0,32916.04,Cash,Pending
+ORD00786,2026-09-01,Rahul,South,Backpack,Accessories,5,3957.75,0.15,16820.44,UPI,Pending
+ORD00359,2026-01-14,Ishita,North,Mouse,Accessories,4,1941.24,0,7764.96,UPI,Completed
+ORD00795,2026-05-16,Rahul,West,Tablet,Electronics,1,50566.64,0.05,48038.31,Credit Card,Completed
+ORD00291,2026-02-24,Priya,South,Headphones,Electronics,3,8735.5,0.1,23585.85,Debit Card,Pending
+ORD00661,2026-07-26,Ishita,West,Monitor,Electronics,3,28993.63,0.1,78282.8,UPI,Completed
+ORD00586,2026-01-22,Ishita,West,Mouse,Accessories,2,2237.64,0.05,4251.52,UPI,Completed
+ORD00301,2026-03-07,Diya,North,Headphones,Electronics,1,6268.69,0.1,5641.82,UPI,Pending
+ORD00360,2026-06-27,Rahul,West,Keyboard,Accessories,2,2831.81,0.15,4814.08,Net Banking,Completed
+ORD00299,2026-07-19,Tanya,South,Backpack,Accessories,3,2414.42,0.05,6881.1,Debit Card,Completed
+ORD00324,2026-01-10,Diya,South,Tablet,Electronics,2,46880.17,0.05,89072.32,Net Banking,Cancelled
+ORD00984,2026-03-27,Ananya,West,Smart Watch,Electronics,1,4648.44,0.15,3951.17,Net Banking,Completed
+ORD00644,2026-08-20,Ananya,South,Office Chair,Furniture,5,5440.12,0.1,24480.54,Credit Card,Completed
+ORD00587,2026-09-27,Sneha,East,Office Chair,Furniture,1,6760.58,0,6760.58,Net Banking,Completed
+ORD00400,2026-02-06,Sneha,South,Smart Watch,Electronics,5,10864.55,0,54322.75,Credit Card,Cancelled
+ORD00334,2026-07-29,Arjun,West,Desk,Furniture,5,23378.05,0,116890.25,Cash,Cancelled
+ORD00284,2026-07-02,Ananya,North,Headphones,Electronics,4,3656.29,0.05,13893.9,Debit Card,Completed
+ORD00091,2026-02-16,Tanya,North,Laptop,Electronics,4,76907.27,0.1,276866.17,Net Banking,Pending
+ORD00500,2026-02-18,Aditya,North,Tablet,Electronics,5,54402.44,0,272012.2,UPI,Cancelled
+ORD00877,2026-04-07,Arjun,Central,Headphones,Electronics,4,3852.59,0.1,13869.32,UPI,Completed
+ORD00739,2026-01-20,Ishita,West,Keyboard,Accessories,2,4098.57,0.15,6967.57,Cash,Completed
+ORD00032,2026-05-26,Nisha,North,Keyboard,Accessories,4,4750.76,0.15,16152.58,UPI,Cancelled
+ORD00703,2026-05-09,Diya,West,Backpack,Accessories,5,4342.75,0.15,18456.69,Credit Card,Completed
+ORD00750,2026-04-08,Ananya,East,Office Chair,Furniture,5,8760.27,0.05,41611.28,Net Banking,Completed
+ORD00435,2026-03-25,Varun,North,Laptop,Electronics,2,61238.28,0.05,116352.73,Net Banking,Completed
+ORD00891,2026-08-24,Ishita,South,Headphones,Electronics,5,2002.13,0,10010.65,Credit Card,Completed
+ORD00459,2026-05-02,Kabir,West,Mouse,Accessories,4,1655.86,0.05,6292.27,Debit Card,Completed
+ORD00987,2026-05-07,Aarav,Central,Tablet,Electronics,1,53255.12,0.15,45266.85,Debit Card,Completed
+ORD01000,2026-02-02,Nisha,Central,Laptop,Electronics,4,68014.63,0.15,231249.74,UPI,Completed
+ORD00266,2026-09-23,Rohan,Central,Mouse,Accessories,5,1235.5,0,6177.5,Cash,Cancelled
+ORD00816,2026-01-23,Rohan,Central,Headphones,Electronics,2,3391.29,0,6782.58,Net Banking,Pending
+ORD00788,2026-07-25,Varun,North,Smart Watch,Electronics,2,8405.14,0.1,15129.25,Cash,Completed
+ORD00010,2026-02-07,Varun,East,Smart Watch,Electronics,4,11240.39,0,44961.56,Debit Card,Completed
+ORD00488,2026-07-06,Arjun,South,Office Chair,Furniture,3,15960.01,0,47880.03,Cash,Pending
+ORD00771,2026-07-19,Rahul,West,Tablet,Electronics,5,40781.63,0.1,183517.33,Credit Card,Completed
+ORD00600,2026-03-23,Rohan,East,Office Chair,Furniture,1,7573.05,0.1,6815.74,Debit Card,Completed
+ORD00964,2026-01-04,Arjun,North,Headphones,Electronics,4,5574.54,0.15,18953.44,Debit Card,Cancelled
+ORD00540,2026-05-31,Karan,East,Headphones,Electronics,2,5360.55,0.1,9648.99,UPI,Completed
+ORD00394,2026-05-11,Varun,Central,Smart Watch,Electronics,2,2522.41,0.05,4792.58,UPI,Pending
+ORD00801,2026-02-02,Rahul,South,Mouse,Accessories,3,2663.47,0,7990.41,Net Banking,Cancelled
+ORD00276,2026-09-02,Diya,Central,Desk,Furniture,2,13137.95,0.1,23648.31,Net Banking,Completed
+ORD00525,2026-06-26,Rahul,South,Tablet,Electronics,1,46007.06,0.15,39106.0,UPI,Completed
+ORD00548,2026-07-03,Sneha,Central,Smart Watch,Electronics,4,14652.99,0.05,55681.36,UPI,Completed
+ORD00903,2026-08-20,Nisha,East,Laptop,Electronics,5,88613.56,0.15,376607.63,Debit Card,Completed
+ORD00199,2026-02-18,Priya,East,Headphones,Electronics,2,2684.3,0.05,5100.17,Net Banking,Completed
+ORD00157,2026-08-21,Aarav,North,Tablet,Electronics,4,22346.0,0,89384.0,Cash,Completed
+ORD00391,2026-09-10,Karan,West,Laptop,Electronics,4,82861.03,0.05,314871.91,Cash,Completed
+ORD00237,2026-03-03,Diya,East,Office Chair,Furniture,5,6946.56,0.05,32996.16,Net Banking,Completed
+ORD00543,2026-04-18,Rohan,North,Monitor,Electronics,3,11405.16,0,34215.48,Debit Card,Completed
+ORD00133,2026-09-16,Ananya,Central,Tablet,Electronics,2,27879.51,0.1,50183.12,Credit Card,Completed
+ORD00928,2026-09-02,Priya,East,Mouse,Accessories,4,2870.02,0,11480.08,Net Banking,Completed
+ORD00178,2026-05-26,Ananya,North,Headphones,Electronics,2,6863.88,0.1,12354.98,Cash,Completed
+ORD00885,2026-05-18,Priya,East,Tablet,Electronics,5,40547.39,0.05,192600.1,Debit Card,Completed
+ORD00546,2026-02-28,Ananya,Central,Headphones,Electronics,3,7121.1,0.05,20295.14,UPI,Completed
+ORD00804,2026-08-06,Aditya,West,Office Chair,Furniture,3,6414.32,0.05,18280.81,UPI,Pending
+ORD00638,2026-02-03,Arjun,North,Laptop,Electronics,5,63122.52,0.05,299831.97,Cash,Cancelled
+ORD00879,2026-05-04,Aditya,South,Smart Watch,Electronics,3,13436.44,0.15,34262.92,Credit Card,Completed
+ORD00773,2026-04-11,Nisha,Central,Office Chair,Furniture,1,21209.58,0.1,19088.62,Cash,Completed
+ORD00731,2026-09-19,Karan,Central,Desk,Furniture,4,9171.19,0.15,31182.05,Credit Card,Completed
+ORD00927,2026-07-22,Arjun,North,Headphones,Electronics,4,3082.37,0.15,10480.06,UPI,Pending
+ORD00832,2026-02-27,Rahul,Central,Office Chair,Furniture,2,9932.18,0.05,18871.14,Debit Card,Completed
+ORD00191,2026-09-01,Karan,East,Headphones,Electronics,2,1608.76,0.05,3056.64,Credit Card,Completed
+ORD00985,2026-03-08,Arjun,South,Keyboard,Accessories,3,3206.16,0.1,8656.63,UPI,Completed
+ORD00218,2026-08-30,Meera,East,Office Chair,Furniture,4,15181.24,0.15,51616.22,Debit Card,Pending
+ORD00377,2026-09-25,Varun,West,Keyboard,Accessories,5,991.56,0.15,4214.13,Credit Card,Completed
+ORD00564,2026-01-17,Rohan,East,Headphones,Electronics,3,7407.84,0.1,20001.17,Credit Card,Cancelled
+ORD00794,2026-02-18,Priya,East,Laptop,Electronics,4,70919.28,0,283677.12,Debit Card,Completed
+ORD00451,2026-03-30,Arjun,North,Smart Watch,Electronics,1,9931.85,0.05,9435.26,Cash,Cancelled
+ORD00126,2026-09-04,Karan,West,Monitor,Electronics,4,24834.46,0.05,94370.95,Debit Card,Completed
+ORD00741,2026-06-25,Meera,Central,Mouse,Accessories,2,638.5,0.15,1085.45,Credit Card,Cancelled
+ORD00601,2026-02-03,Kabir,North,Smart Watch,Electronics,3,11863.39,0,35590.17,Net Banking,Completed
+ORD00917,2026-01-11,Varun,North,Desk,Furniture,2,12963.21,0.05,24630.1,Debit Card,Completed
+ORD00978,2026-03-06,Priya,East,Monitor,Electronics,3,29633.38,0.15,75565.12,Net Banking,Pending
+ORD00507,2026-05-09,Ishita,East,Monitor,Electronics,4,33455.77,0,133823.08,UPI,Completed
+ORD00516,2026-04-18,Kabir,North,Smart Watch,Electronics,5,7112.59,0.15,30228.51,Debit Card,Pending
+ORD00122,2026-06-21,Sneha,East,Smart Watch,Electronics,5,13569.99,0.05,64457.45,UPI,Completed
+ORD00043,2026-04-25,Nisha,East,Mouse,Accessories,5,440.76,0.15,1873.23,Credit Card,Completed
+ORD00888,2026-05-28,Diya,Central,Monitor,Electronics,2,12388.15,0.1,22298.67,Net Banking,Completed
+ORD00084,2026-07-27,Kabir,Central,Mouse,Accessories,3,899.8,0,2699.4,Cash,Completed
+ORD00050,2026-01-14,Aditya,North,Keyboard,Accessories,2,2892.46,0.05,5495.67,UPI,Completed
+ORD00931,2026-05-31,Sneha,North,Backpack,Accessories,1,4623.25,0.1,4160.93,Credit Card,Completed
+ORD00255,2026-04-18,Meera,East,Mouse,Accessories,5,405.38,0.05,1925.56,UPI,Completed
+ORD00914,2026-04-16,Tanya,East,Headphones,Electronics,1,4520.12,0.05,4294.11,Debit Card,Pending
+ORD00898,2026-02-13,Priya,South,Backpack,Accessories,2,4061.32,0.1,7310.38,Net Banking,Pending
+ORD00427,2026-04-28,Nisha,East,Backpack,Accessories,5,1208.61,0.15,5136.59,UPI,Pending
+ORD00444,2026-09-22,Aarav,South,Laptop,Electronics,5,85499.67,0.1,384748.52,Net Banking,Cancelled
+ORD00669,2026-01-17,Ishita,Central,Backpack,Accessories,4,3622.09,0.05,13763.94,UPI,Pending
+ORD00992,2026-05-10,Arjun,East,Smart Watch,Electronics,2,6503.41,0,13006.82,Cash,Completed
+ORD00637,2026-02-03,Priya,Central,Laptop,Electronics,4,71105.45,0.15,241758.53,Debit Card,Completed
+ORD00856,2026-08-28,Aditya,Central,Desk,Furniture,4,27516.02,0.05,104560.88,Debit Card,Cancelled
+ORD00243,2026-08-20,Kabir,West,Headphones,Electronics,1,3728.54,0.1,3355.69,Debit Card,Completed
+ORD00258,2026-08-08,Meera,Central,Backpack,Accessories,1,3849.77,0.1,3464.79,Debit Card,Pending
+ORD00954,2026-03-02,Aditya,South,Backpack,Accessories,2,3071.86,0.15,5222.16,Debit Card,Cancelled
+ORD00956,2026-08-26,Kabir,Central,Smart Watch,Electronics,4,9942.33,0,39769.32,Debit Card,Completed
+ORD00082,2026-06-21,Nisha,East,Headphones,Electronics,2,8610.9,0,17221.8,Cash,Completed
+ORD00248,2026-01-31,Diya,East,Office Chair,Furniture,3,7992.35,0.15,20380.49,Net Banking,Completed
+ORD00315,2026-04-13,Aarav,North,Headphones,Electronics,5,2919.74,0.15,12408.89,Net Banking,Completed
+ORD00863,2026-01-03,Karan,West,Laptop,Electronics,5,69465.12,0.1,312593.04,Cash,Completed
+ORD00065,2026-05-01,Priya,South,Mouse,Accessories,3,1326.71,0.05,3781.12,Cash,Completed
+ORD00432,2026-04-10,Nisha,Central,Mouse,Accessories,3,2911.78,0.15,7425.04,Cash,Pending
+ORD00733,2026-01-06,Varun,South,Smart Watch,Electronics,2,6226.7,0.15,10585.39,Net Banking,Completed
+ORD00614,2026-09-27,Sneha,West,Smart Watch,Electronics,3,11800.54,0.05,33631.54,Debit Card,Pending
+ORD00767,2026-01-22,Nisha,South,Backpack,Accessories,4,3955.36,0.15,13448.22,Debit Card,Completed
+ORD00220,2026-01-12,Aarav,West,Laptop,Electronics,3,65372.49,0.1,176505.72,Debit Card,Completed
+ORD00061,2026-08-28,Kabir,South,Office Chair,Furniture,3,6829.07,0.05,19462.85,UPI,Cancelled
+ORD00397,2026-02-01,Priya,North,Tablet,Electronics,4,26854.57,0.1,96676.45,Debit Card,Completed
+ORD00030,2026-06-01,Rahul,North,Tablet,Electronics,5,41751.83,0.15,177445.28,Credit Card,Cancelled
+ORD00881,2026-09-07,Nisha,South,Laptop,Electronics,1,79046.65,0.05,75094.32,UPI,Completed
+ORD00886,2026-01-09,Nisha,West,Smart Watch,Electronics,2,11694.12,0.1,21049.42,UPI,Completed
+ORD00557,2026-05-12,Ananya,South,Laptop,Electronics,1,88060.68,0.1,79254.61,Credit Card,Pending
+ORD00817,2026-05-15,Rahul,North,Monitor,Electronics,4,9188.21,0,36752.84,Debit Card,Cancelled
+ORD00331,2026-03-14,Arjun,South,Desk,Furniture,1,22852.95,0,22852.95,Cash,Pending
+ORD00829,2026-09-07,Kabir,South,Headphones,Electronics,1,5913.16,0.1,5321.84,Debit Card,Completed
+ORD00526,2026-03-25,Kabir,South,Mouse,Accessories,3,1814.47,0.15,4626.9,Credit Card,Completed
+ORD00339,2026-08-09,Arjun,Central,Mouse,Accessories,3,488.97,0.15,1246.87,Net Banking,Completed
+ORD00671,2026-06-14,Nisha,West,Laptop,Electronics,3,89408.38,0.1,241402.63,Cash,Completed
+ORD00568,2026-01-04,Nisha,Central,Tablet,Electronics,3,23005.28,0.1,62114.26,Cash,Completed
+ORD00611,2026-01-20,Tanya,East,Headphones,Electronics,2,2332.94,0.05,4432.59,UPI,Pending
+ORD00930,2026-08-18,Priya,South,Mouse,Accessories,1,2188.24,0.15,1860.0,UPI,Cancelled
+ORD00273,2026-07-18,Nisha,East,Desk,Furniture,1,13246.25,0,13246.25,Cash,Pending
+ORD00146,2026-04-14,Rahul,East,Laptop,Electronics,3,84655.53,0.05,241268.26,UPI,Pending
+ORD00989,2026-07-18,Rahul,North,Monitor,Electronics,2,26094.62,0.15,44360.85,Credit Card,Completed
+ORD00060,2026-08-21,Ishita,East,Tablet,Electronics,2,16669.98,0.1,30005.96,Debit Card,Completed
+ORD00101,2026-01-11,Ishita,North,Office Chair,Furniture,3,8794.31,0.15,22425.49,Net Banking,Completed
+ORD00936,2026-05-19,Sneha,East,Smart Watch,Electronics,3,13203.35,0.05,37629.55,Credit Card,Completed
+ORD00520,2026-03-16,Ishita,South,Monitor,Electronics,1,30783.84,0.05,29244.65,Net Banking,Completed
+ORD00831,2026-06-15,Priya,South,Keyboard,Accessories,1,3567.13,0.05,3388.77,Net Banking,Completed
+ORD00598,2026-04-15,Nisha,East,Desk,Furniture,4,19447.58,0.1,70011.29,UPI,Completed
+ORD00605,2026-05-15,Varun,Central,Smart Watch,Electronics,5,13166.26,0.1,59248.17,Credit Card,Completed
+ORD00691,2026-07-23,Nisha,South,Smart Watch,Electronics,4,2525.69,0.15,8587.35,Credit Card,Cancelled
+ORD00069,2026-09-17,Sneha,North,Smart Watch,Electronics,3,5639.96,0.1,15227.89,Credit Card,Pending
+ORD00357,2026-07-20,Ananya,North,Headphones,Electronics,1,4603.61,0.05,4373.43,Net Banking,Pending
+ORD00847,2026-03-26,Aditya,West,Smart Watch,Electronics,3,3434.69,0,10304.07,Debit Card,Completed
+ORD00584,2026-07-29,Ishita,East,Monitor,Electronics,5,30906.58,0.15,131352.97,Net Banking,Pending
+ORD00268,2026-04-13,Ishita,South,Monitor,Electronics,1,25083.33,0.1,22575.0,Cash,Completed
+ORD00425,2026-03-03,Nisha,Central,Desk,Furniture,3,19513.93,0.15,49760.52,Cash,Completed
+ORD00823,2026-06-08,Sneha,South,Tablet,Electronics,1,36256.26,0.1,32630.63,Debit Card,Completed
+ORD00522,2026-05-09,Ishita,North,Mouse,Accessories,3,531.44,0.05,1514.6,Cash,Pending
+ORD00924,2026-05-10,Kabir,Central,Headphones,Electronics,5,1810.46,0.15,7694.45,Credit Card,Cancelled
+ORD00358,2026-04-13,Ishita,West,Smart Watch,Electronics,1,9478.79,0,9478.79,Net Banking,Cancelled
+ORD00404,2026-06-05,Sneha,South,Smart Watch,Electronics,2,6537.09,0.15,11113.05,Net Banking,Completed
+ORD00920,2026-08-28,Diya,Central,Headphones,Electronics,3,4196.65,0.05,11960.45,Credit Card,Completed
+ORD00445,2026-01-17,Aarav,East,Laptop,Electronics,2,62212.89,0.15,105761.91,Credit Card,Completed
+ORD00056,2026-06-05,Aditya,Central,Office Chair,Furniture,4,17854.69,0.15,60705.95,Debit Card,Completed
+ORD00312,2026-06-25,Aditya,East,Tablet,Electronics,1,28626.35,0.15,24332.4,Debit Card,Cancelled
+ORD00497,2026-05-05,Nisha,South,Keyboard,Accessories,5,706.87,0.05,3357.63,UPI,Completed
+ORD00055,2026-07-30,Sneha,South,Backpack,Accessories,4,2303.16,0.15,7830.74,Net Banking,Completed
+ORD00325,2026-04-26,Rahul,West,Laptop,Electronics,5,55999.26,0.1,251996.67,Credit Card,Pending
+ORD00838,2026-06-20,Ananya,Central,Tablet,Electronics,1,40745.84,0.1,36671.26,UPI,Cancelled
+ORD00608,2026-07-17,Diya,South,Keyboard,Accessories,3,1870.54,0.15,4769.88,UPI,Pending
+ORD00942,2026-02-21,Nisha,West,Smart Watch,Electronics,3,3201.65,0,9604.95,Credit Card,Completed
+ORD00165,2026-09-23,Kabir,East,Keyboard,Accessories,4,744.81,0.15,2532.35,Net Banking,Completed
+ORD00674,2026-02-10,Aditya,Central,Headphones,Electronics,2,1403.29,0.1,2525.92,Debit Card,Pending
+ORD00188,2026-05-12,Rohan,East,Headphones,Electronics,5,7367.47,0,36837.35,Debit Card,Completed
+ORD00367,2026-03-02,Ishita,West,Tablet,Electronics,5,33690.4,0.05,160029.4,Credit Card,Completed
+ORD00429,2026-03-27,Sneha,West,Laptop,Electronics,4,70548.16,0.15,239863.74,Credit Card,Completed
+ORD00372,2026-04-03,Priya,East,Monitor,Electronics,2,30398.78,0.1,54717.8,Credit Card,Completed
+ORD00890,2026-02-22,Ananya,East,Laptop,Electronics,2,58677.74,0.15,99752.16,Credit Card,Cancelled
+ORD00895,2026-09-14,Ishita,North,Laptop,Electronics,4,56174.05,0.05,213461.39,Credit Card,Cancelled
+ORD00993,2026-04-13,Aditya,North,Mouse,Accessories,4,2606.91,0.05,9906.26,UPI,Completed
+ORD00665,2026-04-07,Rahul,East,Office Chair,Furniture,2,8347.31,0,16694.62,Credit Card,Completed
+ORD00241,2026-07-30,Aditya,Central,Monitor,Electronics,2,27048.34,0,54096.68,Cash,Completed
+ORD00447,2026-01-24,Aarav,South,Tablet,Electronics,3,25555.51,0.1,68999.88,UPI,Pending
+ORD00697,2026-04-21,Nisha,East,Laptop,Electronics,4,73231.53,0.05,278279.81,Net Banking,Completed
+ORD00366,2026-07-06,Priya,North,Desk,Furniture,3,7943.71,0.15,20256.46,Cash,Completed
+ORD00376,2026-05-07,Nisha,Central,Smart Watch,Electronics,1,4341.36,0.05,4124.29,Cash,Completed
+ORD00257,2026-01-28,Rahul,Central,Office Chair,Furniture,1,16114.98,0.1,14503.48,UPI,Completed
+ORD00274,2026-08-23,Diya,East,Keyboard,Accessories,5,4689.21,0.1,21101.44,Cash,Completed
+ORD00138,2026-04-08,Nisha,South,Headphones,Electronics,4,3678.4,0,14713.6,UPI,Cancelled
+ORD00326,2026-04-25,Ananya,Central,Office Chair,Furniture,3,19347.45,0.05,55140.23,Net Banking,Completed
+ORD00894,2026-02-26,Ishita,North,Tablet,Electronics,5,31760.06,0.15,134980.26,UPI,Completed
+ORD00244,2026-07-29,Rahul,North,Office Chair,Furniture,4,9729.09,0,38916.36,Credit Card,Completed
+ORD00596,2026-09-10,Nisha,East,Desk,Furniture,3,22834.05,0,68502.15,Cash,Completed
+ORD00352,2026-02-01,Nisha,South,Headphones,Electronics,3,6716.88,0.15,17128.04,UPI,Pending
+ORD00645,2026-04-24,Arjun,North,Tablet,Electronics,1,29042.6,0.15,24686.21,Net Banking,Cancelled
+ORD00420,2026-02-10,Diya,West,Keyboard,Accessories,2,2211.62,0.05,4202.08,UPI,Cancelled
+ORD00666,2026-05-18,Sneha,North,Smart Watch,Electronics,5,5404.43,0.1,24319.94,UPI,Completed
+ORD00658,2026-09-05,Ishita,East,Tablet,Electronics,4,43670.57,0.1,157214.05,Debit Card,Completed
+ORD00849,2026-06-07,Meera,Central,Desk,Furniture,1,18754.16,0,18754.16,Credit Card,Completed
+ORD00580,2026-03-28,Rohan,South,Tablet,Electronics,1,22827.32,0.1,20544.59,UPI,Completed
+ORD00190,2026-05-21,Aarav,South,Tablet,Electronics,4,32716.56,0,130866.24,UPI,Completed
+ORD00684,2026-05-26,Aarav,South,Headphones,Electronics,2,4303.92,0,8607.84,Debit Card,Cancelled
+ORD00616,2026-03-21,Rahul,East,Smart Watch,Electronics,5,7589.97,0.1,34154.86,Cash,Completed
+ORD00676,2026-06-06,Aditya,Central,Office Chair,Furniture,5,6563.42,0.05,31176.24,UPI,Pending
+ORD00399,2026-01-16,Varun,West,Desk,Furniture,2,14781.3,0,29562.6,UPI,Completed
+ORD00681,2026-04-04,Aarav,Central,Laptop,Electronics,3,87474.85,0,262424.55,Net Banking,Pending
+ORD00281,2026-06-09,Meera,South,Headphones,Electronics,5,5596.95,0.15,23787.04,Cash,Pending
+ORD00649,2026-02-08,Kabir,North,Keyboard,Accessories,2,4949.41,0.05,9403.88,Net Banking,Completed
+ORD00364,2026-04-21,Priya,Central,Laptop,Electronics,1,65313.62,0,65313.62,Cash,Cancelled
+ORD00565,2026-04-23,Kabir,West,Desk,Furniture,5,20322.75,0.15,86371.69,Cash,Cancelled
+ORD00807,2026-01-17,Ananya,East,Smart Watch,Electronics,3,4715.98,0.05,13440.54,Credit Card,Completed
+ORD00235,2026-08-31,Priya,Central,Laptop,Electronics,2,62239.99,0.15,105807.98,Debit Card,Pending
+ORD00440,2026-08-18,Nisha,Central,Monitor,Electronics,4,17209.95,0.05,65397.81,Cash,Completed
+ORD00783,2026-05-23,Varun,East,Monitor,Electronics,5,10230.55,0.1,46037.47,UPI,Completed
+ORD00675,2026-02-08,Meera,West,Tablet,Electronics,1,20164.0,0,20164.0,Debit Card,Completed
+ORD00200,2026-01-10,Rahul,South,Laptop,Electronics,3,64696.23,0.1,174679.82,Cash,Cancelled
+ORD00573,2026-05-28,Ananya,Central,Smart Watch,Electronics,2,13580.77,0,27161.54,Cash,Completed
+ORD00169,2026-07-30,Kabir,North,Tablet,Electronics,1,35625.9,0.1,32063.31,Credit Card,Completed
+ORD00965,2026-06-23,Ishita,West,Office Chair,Furniture,1,9875.85,0.15,8394.47,Cash,Completed
+ORD00378,2026-01-01,Kabir,West,Tablet,Electronics,2,23510.87,0,47021.74,Net Banking,Pending
+ORD00482,2026-05-02,Karan,North,Backpack,Accessories,2,1007.4,0.15,1712.58,Credit Card,Completed
+ORD00577,2026-05-23,Aditya,North,Office Chair,Furniture,4,7209.79,0.15,24513.29,Credit Card,Completed
+ORD00657,2026-06-24,Ananya,East,Keyboard,Accessories,5,1385.46,0.05,6580.93,Net Banking,Completed
+ORD00247,2026-02-01,Aarav,Central,Backpack,Accessories,3,4274.34,0.1,11540.72,Cash,Pending
+ORD00474,2026-02-28,Aditya,Central,Smart Watch,Electronics,4,6520.36,0,26081.44,Credit Card,Completed
+ORD00476,2026-08-18,Ananya,North,Tablet,Electronics,4,43882.7,0.1,157977.72,Credit Card,Cancelled
+ORD00882,2026-05-23,Rohan,East,Tablet,Electronics,3,26893.66,0,80680.98,Credit Card,Cancelled
+ORD00550,2026-04-12,Rahul,West,Tablet,Electronics,3,23934.29,0.1,64622.58,Debit Card,Completed
+ORD00252,2026-01-06,Varun,South,Monitor,Electronics,1,13008.33,0,13008.33,Debit Card,Completed
+ORD00646,2026-01-15,Rohan,West,Backpack,Accessories,2,4088.5,0.15,6950.45,Net Banking,Cancelled
+ORD00857,2026-06-03,Aarav,East,Tablet,Electronics,2,51692.0,0.15,87876.4,Net Banking,Completed
+ORD00541,2026-07-03,Ananya,Central,Laptop,Electronics,1,77873.55,0.05,73979.87,Cash,Completed
+ORD00105,2026-08-21,Aarav,East,Laptop,Electronics,5,63822.89,0.15,271247.28,Credit Card,Completed
+ORD00027,2026-08-19,Arjun,South,Headphones,Electronics,3,5648.94,0.05,16099.48,Credit Card,Pending
+ORD00128,2026-08-28,Varun,North,Monitor,Electronics,2,21866.25,0.05,41545.88,Debit Card,Completed
+ORD00745,2026-02-08,Arjun,North,Backpack,Accessories,2,1378.55,0.15,2343.53,Credit Card,Completed
+ORD00591,2026-09-23,Varun,North,Keyboard,Accessories,5,1230.23,0,6151.15,Debit Card,Pending
+ORD00253,2026-05-06,Nisha,North,Office Chair,Furniture,2,13944.14,0.1,25099.45,Credit Card,Completed
+ORD00631,2026-04-07,Rahul,North,Tablet,Electronics,2,50200.05,0.1,90360.09,Cash,Cancelled
+ORD00423,2026-07-29,Aarav,East,Mouse,Accessories,4,1494.03,0.15,5079.7,Debit Card,Cancelled
+ORD00778,2026-06-03,Meera,Central,Keyboard,Accessories,3,1957.89,0.1,5286.3,Net Banking,Completed
+ORD00028,2026-08-11,Meera,South,Mouse,Accessories,4,2103.22,0.05,7992.24,Debit Card,Completed
+ORD00749,2026-07-13,Aarav,Central,Office Chair,Furniture,5,13083.98,0.05,62148.9,Cash,Completed
+ORD00289,2026-06-17,Kabir,North,Desk,Furniture,3,29849.2,0.05,85070.22,UPI,Pending
+ORD00938,2026-06-11,Aarav,South,Monitor,Electronics,5,17629.02,0.05,83737.85,UPI,Pending
+ORD00688,2026-04-24,Nisha,North,Desk,Furniture,3,29735.45,0.15,75825.4,Credit Card,Completed
+ORD00737,2026-08-10,Ishita,North,Backpack,Accessories,1,4509.65,0.05,4284.17,UPI,Completed
+ORD00534,2026-05-02,Sneha,Central,Smart Watch,Electronics,5,6535.95,0.15,27777.79,Credit Card,Completed
+ORD00784,2026-09-19,Aarav,North,Laptop,Electronics,3,84690.05,0.1,228663.14,Cash,Pending
+ORD00087,2026-01-03,Karan,South,Tablet,Electronics,5,30464.82,0,152324.1,UPI,Completed
+ORD00743,2026-05-05,Ishita,North,Laptop,Electronics,2,59279.24,0.15,100774.71,Cash,Pending
+ORD00129,2026-04-19,Priya,South,Keyboard,Accessories,4,2398.91,0.1,8636.08,Credit Card,Completed
+ORD00149,2026-01-12,Sneha,Central,Tablet,Electronics,5,30421.66,0.05,144502.88,Credit Card,Completed
+ORD00843,2026-03-19,Ananya,Central,Laptop,Electronics,3,58708.0,0.1,158511.6,Cash,Cancelled
+ORD00239,2026-07-18,Arjun,South,Headphones,Electronics,1,1252.29,0.05,1189.68,UPI,Completed
+ORD00673,2026-04-09,Priya,East,Monitor,Electronics,4,34392.96,0.15,116936.06,Debit Card,Completed
+ORD00875,2026-08-29,Arjun,North,Smart Watch,Electronics,2,3594.38,0.05,6829.32,Credit Card,Completed
+ORD00878,2026-03-22,Rohan,West,Desk,Furniture,5,28429.16,0.1,127931.22,Credit Card,Completed
+ORD00897,2026-01-08,Diya,Central,Smart Watch,Electronics,2,5215.58,0.05,9909.6,Net Banking,Completed
+ORD00184,2026-01-18,Kabir,South,Headphones,Electronics,1,5834.1,0,5834.1,Debit Card,Pending
+ORD00514,2026-01-29,Nisha,North,Mouse,Accessories,4,1455.55,0,5822.2,Debit Card,Completed
+ORD00505,2026-06-09,Ishita,West,Headphones,Electronics,1,1321.92,0.15,1123.63,Cash,Pending
+ORD00533,2026-06-19,Karan,East,Office Chair,Furniture,5,5876.38,0.05,27912.81,Debit Card,Completed
+ORD00454,2026-07-06,Rohan,South,Tablet,Electronics,4,36294.27,0.1,130659.37,Credit Card,Completed
+ORD00559,2026-01-13,Rahul,South,Monitor,Electronics,4,10620.66,0,42482.64,Cash,Pending
+ORD00431,2026-08-20,Kabir,Central,Tablet,Electronics,2,30836.17,0.05,58588.72,Credit Card,Cancelled
+ORD00620,2026-07-23,Varun,Central,Backpack,Accessories,2,3358.03,0,6716.06,Cash,Cancelled
+ORD00314,2026-05-04,Sneha,Central,Keyboard,Accessories,5,4445.42,0.1,20004.39,Credit Card,Pending
+ORD00014,2026-05-02,Karan,East,Backpack,Accessories,4,912.12,0.05,3466.06,Net Banking,Completed
+ORD00222,2026-06-17,Rahul,West,Mouse,Accessories,5,2342.89,0.05,11128.73,Debit Card,Pending
+ORD00538,2026-02-22,Varun,North,Backpack,Accessories,5,3251.2,0.15,13817.6,Credit Card,Cancelled
+ORD00766,2026-09-07,Kabir,East,Desk,Furniture,2,8920.15,0.1,16056.27,Debit Card,Cancelled
+ORD00498,2026-04-02,Ishita,North,Backpack,Accessories,5,4473.5,0,22367.5,Cash,Completed
+ORD00167,2026-02-13,Ananya,Central,Smart Watch,Electronics,3,4487.69,0.1,12116.76,Debit Card,Completed
+ORD00303,2026-04-13,Aarav,Central,Smart Watch,Electronics,5,8559.77,0.1,38518.97,Credit Card,Completed
+ORD00759,2026-03-20,Ananya,South,Laptop,Electronics,2,73042.1,0.05,138779.99,Cash,Completed
+ORD00384,2026-02-05,Priya,Central,Laptop,Electronics,3,79311.2,0,237933.6,Cash,Completed
+ORD00592,2026-08-20,Meera,West,Laptop,Electronics,5,62683.4,0.05,297746.15,Credit Card,Completed
+ORD00579,2026-03-10,Ananya,West,Tablet,Electronics,2,17690.14,0.1,31842.25,Net Banking,Completed
+ORD00019,2026-04-25,Diya,North,Monitor,Electronics,2,17657.78,0.1,31784.0,Cash,Completed
+ORD00305,2026-06-17,Rohan,West,Keyboard,Accessories,5,3824.81,0.1,17211.65,Credit Card,Completed
+ORD00020,2026-05-29,Arjun,Central,Keyboard,Accessories,2,4808.17,0,9616.34,Debit Card,Completed
+ORD00229,2026-05-02,Aarav,Central,Laptop,Electronics,4,66998.37,0,267993.48,Credit Card,Completed
+ORD00256,2026-03-24,Rahul,Central,Backpack,Accessories,1,4290.29,0.05,4075.78,Net Banking,Completed
+ORD00417,2026-02-23,Aditya,Central,Tablet,Electronics,5,37432.87,0.15,159089.7,Net Banking,Completed
+ORD00227,2026-03-30,Kabir,North,Office Chair,Furniture,5,12565.55,0.05,59686.36,Net Banking,Completed
+ORD00712,2026-09-11,Ananya,South,Keyboard,Accessories,2,1850.89,0.15,3146.51,Net Banking,Cancelled
+ORD00460,2026-07-27,Ishita,Central,Keyboard,Accessories,5,1854.89,0.15,7883.28,Debit Card,Completed
+ORD00017,2026-03-28,Varun,North,Backpack,Accessories,4,1210.88,0.15,4116.99,UPI,Cancelled
+ORD00549,2026-06-19,Rahul,North,Monitor,Electronics,1,32738.41,0.1,29464.57,UPI,Completed
+ORD00683,2026-09-13,Rohan,North,Mouse,Accessories,2,417.09,0.05,792.47,Credit Card,Pending
+ORD00125,2026-08-18,Ananya,North,Tablet,Electronics,3,32973.97,0.1,89029.72,Credit Card,Completed
+ORD00502,2026-04-23,Kabir,Central,Laptop,Electronics,2,60963.9,0.05,115831.41,UPI,Completed
+ORD00960,2026-04-28,Tanya,North,Monitor,Electronics,5,20448.27,0.05,97129.28,Debit Card,Completed
+ORD00781,2026-09-07,Ananya,Central,Headphones,Electronics,2,1945.38,0.15,3307.15,Credit Card,Cancelled
+ORD00107,2026-08-17,Meera,East,Backpack,Accessories,5,3666.9,0.1,16501.05,Debit Card,Completed
+ORD00174,2026-06-20,Ishita,West,Headphones,Electronics,4,3176.42,0.15,10799.83,Cash,Pending
+ORD00492,2026-04-04,Kabir,East,Keyboard,Accessories,1,4051.28,0,4051.28,Net Banking,Completed
+ORD00416,2026-09-28,Ishita,Central,Monitor,Electronics,1,10139.67,0.05,9632.69,Debit Card,Completed
+ORD00058,2026-06-16,Arjun,North,Desk,Furniture,5,14356.8,0.05,68194.8,Credit Card,Cancelled
+ORD00403,2026-05-28,Tanya,North,Smart Watch,Electronics,1,5058.55,0.15,4299.77,Net Banking,Pending
+ORD00906,2026-08-04,Priya,South,Mouse,Accessories,4,1438.41,0.15,4890.59,Cash,Completed
+ORD00265,2026-08-17,Rohan,South,Mouse,Accessories,4,801.57,0.15,2725.34,Debit Card,Completed
+ORD00419,2026-08-16,Rahul,West,Tablet,Electronics,1,20023.13,0.15,17019.66,UPI,Completed
+ORD00038,2026-06-09,Rohan,South,Keyboard,Accessories,3,4029.41,0,12088.23,Credit Card,Completed
+ORD00362,2026-04-21,Arjun,West,Keyboard,Accessories,1,2277.25,0.1,2049.53,Cash,Completed
+ORD00296,2026-07-11,Ananya,Central,Smart Watch,Electronics,3,6944.53,0.15,17708.55,UPI,Cancelled
+ORD00566,2026-09-01,Arjun,North,Office Chair,Furniture,1,7651.76,0,7651.76,Credit Card,Cancelled
+ORD00933,2026-01-15,Aarav,West,Smart Watch,Electronics,2,13279.76,0,26559.52,UPI,Cancelled
+ORD00572,2026-10-01,Rohan,South,Tablet,Electronics,4,38408.38,0.15,130588.49,UPI,Pending
+ORD00808,2026-09-02,Diya,East,Backpack,Accessories,5,2338.02,0.1,10521.09,Debit Card,Completed
+ORD00109,2026-02-10,Varun,West,Office Chair,Furniture,5,15252.47,0,76262.35,Credit Card,Completed
+ORD00323,2026-07-22,Meera,South,Office Chair,Furniture,2,18622.78,0.15,31658.73,Cash,Pending
+ORD00008,2026-05-01,Nisha,South,Headphones,Electronics,3,6439.2,0.15,16419.96,Debit Card,Pending
+ORD00481,2026-03-20,Meera,East,Office Chair,Furniture,5,9743.88,0.15,41411.49,Net Banking,Completed
+ORD00462,2026-05-28,Rohan,South,Desk,Furniture,1,19206.57,0.1,17285.91,Credit Card,Completed
+ORD00346,2026-07-24,Aarav,Central,Tablet,Electronics,4,32937.74,0.15,111988.32,Credit Card,Pending
+ORD00720,2026-03-27,Arjun,South,Headphones,Electronics,4,7751.74,0.05,29456.61,Credit Card,Completed
+ORD00075,2026-08-17,Diya,South,Backpack,Accessories,1,2125.54,0.1,1912.99,Debit Card,Pending
+ORD00972,2026-09-30,Ishita,North,Monitor,Electronics,4,13589.95,0.05,51641.81,Debit Card,Completed
+ORD00935,2026-05-31,Priya,East,Monitor,Electronics,5,11070.99,0.1,49819.46,Debit Card,Completed
+ORD00861,2026-08-15,Karan,South,Smart Watch,Electronics,1,11227.98,0.1,10105.18,Cash,Completed
+ORD00994,2026-03-04,Meera,West,Headphones,Electronics,5,5359.95,0.15,22779.79,Net Banking,Cancelled
+ORD00840,2026-03-05,Karan,East,Tablet,Electronics,1,39647.27,0,39647.27,Debit Card,Completed
+ORD00393,2026-08-05,Ishita,East,Mouse,Accessories,4,811.8,0.15,2760.12,Credit Card,Completed
+ORD00115,2026-08-05,Kabir,Central,Keyboard,Accessories,1,2996.6,0.05,2846.77,UPI,Completed
+ORD00080,2026-01-24,Rahul,West,Backpack,Accessories,2,3898.53,0.1,7017.35,Debit Card,Cancelled
+ORD00270,2026-04-07,Ananya,South,Tablet,Electronics,1,39704.07,0,39704.07,Net Banking,Completed
+ORD00214,2026-01-15,Aditya,South,Smart Watch,Electronics,4,3689.25,0,14757.0,Net Banking,Completed
+ORD00561,2026-05-03,Arjun,East,Desk,Furniture,4,25834.41,0,103337.64,Cash,Completed
+ORD00428,2026-08-30,Sneha,Central,Monitor,Electronics,4,11807.51,0.05,44868.54,Net Banking,Completed
+ORD00560,2026-05-25,Varun,West,Laptop,Electronics,2,75970.74,0.1,136747.33,Debit Card,Completed
+ORD00508,2026-09-10,Sneha,Central,Desk,Furniture,3,24540.23,0,73620.69,Debit Card,Pending
+ORD00779,2026-05-24,Arjun,Central,Laptop,Electronics,5,71112.06,0,355560.3,Cash,Completed
+ORD00873,2026-09-14,Arjun,Central,Keyboard,Accessories,3,1869.27,0.15,4766.64,Net Banking,Completed
+ORD00421,2026-08-23,Ananya,East,Desk,Furniture,4,16719.89,0,66879.56,Debit Card,Completed
+ORD00953,2026-05-23,Rahul,East,Headphones,Electronics,5,5273.37,0,26366.85,UPI,Completed
+ORD00309,2026-07-21,Rohan,North,Backpack,Accessories,1,3740.36,0,3740.36,Net Banking,Completed
+ORD00613,2026-04-03,Diya,North,Backpack,Accessories,4,1030.16,0.1,3708.58,Debit Card,Completed
+ORD00595,2026-03-14,Nisha,West,Smart Watch,Electronics,1,9861.84,0.15,8382.56,Cash,Completed
+ORD00670,2026-08-03,Aarav,Central,Backpack,Accessories,4,1016.09,0.1,3657.92,Cash,Cancelled
+ORD00932,2026-01-29,Meera,South,Desk,Furniture,5,15799.26,0.1,71096.67,UPI,Cancelled
+ORD00228,2026-06-28,Ananya,South,Laptop,Electronics,2,57770.59,0,115541.18,Net Banking,Pending
+ORD00204,2026-07-29,Rahul,East,Backpack,Accessories,4,3253.44,0,13013.76,Cash,Completed
+ORD00623,2026-06-23,Kabir,North,Mouse,Accessories,1,2341.09,0.15,1989.93,UPI,Completed
+ORD00430,2026-03-11,Ananya,Central,Headphones,Electronics,5,8473.77,0.05,40250.41,Debit Card,Completed
+ORD00147,2026-09-28,Tanya,Central,Office Chair,Furniture,2,15969.67,0,31939.34,Cash,Completed
+ORD00441,2026-06-28,Kabir,Central,Backpack,Accessories,2,4943.9,0.1,8899.02,Credit Card,Completed
+ORD00821,2026-04-23,Varun,West,Mouse,Accessories,2,912.33,0.05,1733.43,Net Banking,Completed
+ORD00946,2026-02-18,Karan,West,Keyboard,Accessories,1,1692.65,0.1,1523.39,Debit Card,Completed
+ORD00696,2026-08-29,Rohan,East,Monitor,Electronics,2,34632.67,0.05,65802.07,Credit Card,Pending
+ORD00506,2026-10-01,Rahul,Central,Office Chair,Furniture,4,7928.87,0.15,26958.16,Debit Card,Cancelled
+ORD00319,2026-03-27,Aarav,East,Desk,Furniture,5,17467.43,0.05,82970.29,Credit Card,Cancelled
+ORD00716,2026-02-05,Varun,West,Monitor,Electronics,2,18606.14,0.05,35351.67,Credit Card,Completed
+ORD00800,2026-01-22,Kabir,North,Monitor,Electronics,3,34386.08,0.15,87684.5,Debit Card,Completed
+ORD00073,2026-05-12,Diya,West,Backpack,Accessories,5,3779.02,0.15,16060.83,UPI,Pending
+ORD00797,2026-01-06,Kabir,West,Headphones,Electronics,2,2017.98,0.1,3632.36,Credit Card,Completed
+ORD00722,2026-08-02,Ishita,North,Office Chair,Furniture,1,15622.21,0,15622.21,UPI,Completed
+ORD00205,2026-03-24,Aarav,West,Headphones,Electronics,3,3808.79,0.1,10283.73,Cash,Pending
+ORD00558,2026-03-30,Ananya,North,Headphones,Electronics,3,4816.47,0.05,13726.94,Debit Card,Pending
+ORD00695,2026-09-03,Sneha,West,Desk,Furniture,2,13528.19,0.15,22997.92,Credit Card,Cancelled
+ORD00904,2026-05-17,Arjun,South,Headphones,Electronics,1,7414.01,0.15,6301.91,Debit Card,Cancelled
+ORD00603,2026-08-28,Meera,Central,Tablet,Electronics,2,30352.92,0.15,51599.96,Credit Card,Pending
+ORD00245,2026-09-28,Tanya,Central,Office Chair,Furniture,1,20988.9,0.1,18890.01,UPI,Completed
+ORD00177,2026-01-24,Rohan,North,Laptop,Electronics,5,67832.83,0.05,322205.94,Net Banking,Completed
+ORD00624,2026-08-01,Kabir,South,Tablet,Electronics,1,47897.19,0,47897.19,UPI,Pending
+ORD00057,2026-06-16,Sneha,South,Keyboard,Accessories,2,3821.44,0,7642.88,Net Banking,Cancelled
+ORD00756,2026-07-27,Karan,South,Tablet,Electronics,1,51839.17,0.1,46655.25,UPI,Completed
+ORD00704,2026-07-15,Diya,Central,Keyboard,Accessories,3,1087.59,0.1,2936.49,Credit Card,Pending
+ORD00988,2026-01-29,Tanya,East,Backpack,Accessories,5,1070.2,0.15,4548.35,UPI,Cancelled
+ORD00142,2026-05-31,Aditya,East,Smart Watch,Electronics,3,11138.16,0.15,28402.31,Net Banking,Completed
+ORD00202,2026-06-21,Aditya,West,Keyboard,Accessories,5,2267.07,0.15,9635.05,Credit Card,Completed
+ORD00945,2026-01-10,Rohan,East,Mouse,Accessories,5,2707.44,0.15,11506.62,Cash,Cancelled
+ORD00457,2026-09-24,Ishita,East,Keyboard,Accessories,5,1131.46,0.05,5374.43,Net Banking,Completed
+ORD00424,2026-08-01,Arjun,South,Laptop,Electronics,4,76787.66,0.15,261078.04,Cash,Completed
+ORD00748,2026-06-16,Aditya,North,Smart Watch,Electronics,3,12813.74,0.1,34597.1,Debit Card,Cancelled
+ORD00995,2026-04-15,Karan,South,Mouse,Accessories,5,1111.32,0,5556.6,Net Banking,Completed
+ORD00679,2026-06-10,Priya,South,Tablet,Electronics,4,19427.37,0.15,66053.06,UPI,Completed
+ORD00041,2026-02-20,Sneha,West,Mouse,Accessories,5,938.0,0.05,4455.5,Debit Card,Completed
+ORD00896,2026-08-20,Aarav,East,Mouse,Accessories,1,688.74,0.1,619.87,Net Banking,Cancelled
+ORD00353,2026-07-29,Kabir,South,Headphones,Electronics,3,4738.55,0.05,13504.87,Net Banking,Pending
+ORD00503,2026-06-21,Tanya,West,Mouse,Accessories,2,1603.21,0,3206.42,Debit Card,Completed
+ORD00141,2026-04-08,Nisha,East,Backpack,Accessories,2,1357.4,0.1,2443.32,Credit Card,Completed
+ORD00713,2026-01-02,Karan,South,Mouse,Accessories,4,1351.39,0.05,5135.28,Cash,Completed
+ORD00018,2026-02-26,Sneha,Central,Monitor,Electronics,2,15620.77,0.15,26555.31,Credit Card,Cancelled
+ORD00830,2026-05-07,Kabir,North,Keyboard,Accessories,3,3578.57,0.05,10198.92,Net Banking,Completed
+ORD00999,2026-07-10,Diya,South,Tablet,Electronics,4,50296.27,0.1,181066.57,Cash,Completed
+ORD00175,2026-09-22,Ishita,Central,Tablet,Electronics,2,45630.23,0,91260.46,UPI,Completed
+ORD00986,2026-07-31,Ananya,East,Tablet,Electronics,4,39540.1,0.05,150252.38,Net Banking,Completed
+ORD00981,2026-01-17,Priya,North,Tablet,Electronics,2,23639.59,0.05,44915.22,Credit Card,Completed
+ORD00009,2026-08-13,Diya,Central,Laptop,Electronics,5,65858.77,0.15,279899.77,Credit Card,Completed
+ORD00251,2026-05-28,Sneha,South,Tablet,Electronics,4,29451.91,0.15,100136.49,Net Banking,Completed
+ORD00185,2026-08-17,Meera,West,Desk,Furniture,1,8728.18,0.15,7418.95,Credit Card,Cancelled
+ORD00469,2026-02-03,Aditya,West,Laptop,Electronics,4,82199.09,0.05,312356.54,UPI,Pending
+ORD00530,2026-06-13,Kabir,East,Monitor,Electronics,1,18077.38,0.05,17173.51,Cash,Completed
+ORD00136,2026-05-16,Rahul,West,Desk,Furniture,2,25289.6,0.05,48050.24,Net Banking,Completed
+ORD00464,2026-04-09,Priya,North,Office Chair,Furniture,3,18627.63,0,55882.89,Credit Card,Completed
+ORD00011,2026-01-18,Karan,North,Tablet,Electronics,1,25010.71,0.05,23760.17,Debit Card,Completed
+ORD00003,2026-05-25,Aarav,East,Laptop,Electronics,3,77288.76,0.05,220272.97,UPI,Pending
+ORD00412,2026-08-20,Priya,North,Tablet,Electronics,5,40854.29,0.1,183844.31,Debit Card,Completed
+ORD00860,2026-07-28,Rahul,West,Smart Watch,Electronics,5,7199.85,0.15,30599.36,Debit Card,Completed
+ORD00114,2026-07-28,Meera,South,Backpack,Accessories,3,4555.71,0,13667.13,Credit Card,Pending
+ORD00918,2026-09-20,Meera,Central,Monitor,Electronics,2,14961.25,0.15,25434.12,Cash,Cancelled
+ORD00173,2026-04-03,Karan,West,Monitor,Electronics,3,17969.25,0.1,48516.97,Cash,Completed
+ORD00763,2026-01-16,Meera,North,Desk,Furniture,1,8953.77,0.15,7610.7,Cash,Pending
+ORD00736,2026-01-29,Diya,West,Laptop,Electronics,5,82326.89,0.1,370471.01,Debit Card,Cancelled
+ORD00751,2026-05-23,Karan,Central,Headphones,Electronics,4,3827.05,0.15,13011.97,Debit Card,Cancelled
+ORD00979,2026-08-25,Meera,West,Smart Watch,Electronics,5,2944.61,0.05,13986.9,Cash,Completed
+ORD00545,2026-01-15,Ishita,South,Laptop,Electronics,5,65659.69,0.15,279053.68,Net Banking,Completed
+ORD00168,2026-01-12,Aditya,West,Tablet,Electronics,4,19122.8,0.1,68842.08,Debit Card,Completed
+ORD00610,2026-05-24,Aarav,North,Backpack,Accessories,5,4883.67,0.1,21976.51,Cash,Pending
+ORD00770,2026-02-19,Diya,Central,Laptop,Electronics,5,61471.14,0.05,291987.91,Cash,Completed
+ORD00095,2026-08-27,Tanya,West,Desk,Furniture,5,19655.01,0.1,88447.54,Cash,Completed
+ORD00458,2026-08-28,Rahul,North,Headphones,Electronics,1,6264.47,0,6264.47,Credit Card,Pending
+ORD00021,2026-01-17,Karan,South,Mouse,Accessories,2,693.58,0,1387.16,Debit Card,Completed
+ORD00051,2026-03-10,Tanya,East,Mouse,Accessories,4,1051.15,0.15,3573.91,Net Banking,Completed
+ORD00135,2026-07-09,Tanya,East,Headphones,Electronics,5,5574.63,0,27873.15,Credit Card,Completed
+ORD00647,2026-06-24,Priya,East,Backpack,Accessories,4,2555.68,0.05,9711.58,UPI,Completed
+ORD00121,2026-07-08,Meera,West,Desk,Furniture,2,18435.64,0.15,31340.59,Cash,Completed
+ORD00392,2026-02-12,Ananya,West,Office Chair,Furniture,4,12585.4,0.05,47824.52,UPI,Pending
+ORD00052,2026-04-28,Ishita,South,Desk,Furniture,1,7473.39,0,7473.39,Debit Card,Completed
+ORD00660,2026-04-03,Diya,North,Desk,Furniture,1,17078.15,0.1,15370.34,Debit Card,Pending
+ORD00211,2026-05-03,Diya,Central,Backpack,Accessories,2,3227.28,0.05,6131.83,UPI,Cancelled
+ORD00634,2026-03-16,Meera,West,Backpack,Accessories,3,2332.15,0,6996.45,UPI,Completed
+ORD00130,2026-07-27,Priya,Central,Headphones,Electronics,2,5311.98,0.05,10092.76,Debit Card,Cancelled
+ORD00753,2026-07-25,Ananya,East,Backpack,Accessories,1,3793.55,0,3793.55,Cash,Completed
+ORD00950,2026-05-27,Diya,North,Headphones,Electronics,2,5054.8,0.15,8593.16,Cash,Completed
+ORD00651,2026-04-03,Karan,Central,Headphones,Electronics,4,1975.02,0.05,7505.08,Cash,Pending
+ORD00789,2026-06-07,Sneha,North,Tablet,Electronics,4,19256.54,0.05,73174.85,Credit Card,Completed
+ORD00093,2026-09-23,Meera,Central,Mouse,Accessories,1,1599.04,0.1,1439.14,Debit Card,Completed
+ORD00221,2026-04-12,Diya,East,Laptop,Electronics,3,67052.53,0.1,181041.83,Cash,Completed
+ORD00966,2026-01-03,Tanya,West,Mouse,Accessories,2,1642.86,0.05,3121.43,Cash,Completed
+ORD00630,2026-07-17,Aarav,North,Mouse,Accessories,5,1573.17,0.1,7079.27,Cash,Pending
+ORD00852,2026-06-25,Aditya,South,Keyboard,Accessories,5,1943.48,0.1,8745.66,Debit Card,Completed
+ORD00103,2026-06-09,Karan,Central,Monitor,Electronics,4,13718.07,0.05,52128.67,Cash,Completed
+ORD00604,2026-07-25,Sneha,South,Headphones,Electronics,3,3214.98,0.05,9162.69,Net Banking,Pending
+ORD00134,2026-05-30,Meera,West,Backpack,Accessories,3,4580.47,0,13741.41,UPI,Cancelled
+ORD00186,2026-01-22,Aarav,East,Mouse,Accessories,3,1966.74,0,5900.22,UPI,Completed
+ORD00990,2026-08-24,Tanya,Central,Tablet,Electronics,2,27064.98,0,54129.96,Debit Card,Pending
+ORD00919,2026-08-24,Sneha,North,Keyboard,Accessories,1,4077.56,0.15,3465.93,Cash,Completed
+ORD00187,2026-02-28,Rohan,South,Laptop,Electronics,1,81510.95,0.15,69284.31,Debit Card,Completed
+ORD00029,2026-05-24,Rahul,East,Monitor,Electronics,4,29683.55,0.15,100924.07,Debit Card,Completed
+ORD00762,2026-04-06,Varun,Central,Tablet,Electronics,5,51057.92,0.15,216996.16,Cash,Completed
+ORD00735,2026-01-15,Aditya,East,Office Chair,Furniture,1,12284.53,0.05,11670.3,Debit Card,Completed
+ORD00567,2026-08-15,Varun,West,Backpack,Accessories,3,3030.54,0.15,7727.88,Credit Card,Pending
+ORD00180,2026-02-02,Rohan,West,Office Chair,Furniture,1,16418.58,0,16418.58,UPI,Completed
+ORD00824,2026-09-21,Karan,Central,Desk,Furniture,3,10815.92,0.05,30825.37,UPI,Completed
+ORD00208,2026-08-20,Diya,North,Keyboard,Accessories,5,3312.7,0.15,14078.98,UPI,Cancelled
+ORD00509,2026-02-01,Karan,West,Desk,Furniture,1,11733.72,0.05,11147.03,Cash,Completed
+ORD00016,2026-08-18,Arjun,West,Tablet,Electronics,5,22422.45,0,112112.25,Cash,Completed
+ORD00814,2026-02-24,Nisha,North,Desk,Furniture,1,20577.03,0.05,19548.18,Debit Card,Completed
+ORD00414,2026-03-08,Diya,North,Tablet,Electronics,1,21038.74,0.15,17882.93,Credit Card,Pending
+ORD00504,2026-09-11,Aditya,West,Laptop,Electronics,5,59382.66,0.05,282067.64,Net Banking,Completed
+ORD00349,2026-06-17,Rahul,Central,Backpack,Accessories,3,2055.99,0.1,5551.17,Debit Card,Completed
+ORD00768,2026-05-15,Aarav,South,Monitor,Electronics,1,27517.56,0.05,26141.68,Credit Card,Cancelled
+ORD00715,2026-01-29,Aditya,East,Tablet,Electronics,1,22170.64,0.15,18845.04,Net Banking,Cancelled
+ORD00344,2026-07-09,Rohan,South,Keyboard,Accessories,1,1119.4,0.05,1063.43,Debit Card,Cancelled
+ORD00443,2026-06-12,Kabir,East,Office Chair,Furniture,2,8078.54,0.05,15349.23,UPI,Cancelled
+ORD00483,2026-03-10,Sneha,Central,Smart Watch,Electronics,2,11387.26,0.1,20497.07,Cash,Cancelled
+ORD00937,2026-09-05,Nisha,South,Headphones,Electronics,4,4336.13,0.1,15610.07,Debit Card,Completed
+ORD00909,2026-04-19,Karan,South,Tablet,Electronics,1,21105.76,0.1,18995.18,UPI,Completed
+ORD00166,2026-01-13,Aditya,Central,Keyboard,Accessories,1,1666.4,0.1,1499.76,Credit Card,Completed
+ORD00437,2026-05-09,Diya,Central,Office Chair,Furniture,2,12121.82,0.1,21819.28,UPI,Completed
+ORD00626,2026-05-29,Tanya,Central,Office Chair,Furniture,5,5754.68,0.1,25896.06,UPI,Pending
+ORD00805,2026-02-28,Aarav,Central,Office Chair,Furniture,1,18241.45,0.05,17329.38,UPI,Completed
+ORD00116,2026-05-15,Aarav,South,Tablet,Electronics,4,41632.74,0.05,158204.41,Credit Card,Completed
+ORD00355,2026-02-12,Karan,West,Office Chair,Furniture,4,16003.67,0,64014.68,Debit Card,Pending
+ORD00212,2026-07-20,Aarav,Central,Backpack,Accessories,3,1817.81,0,5453.43,Credit Card,Completed
+ORD00951,2026-09-17,Arjun,South,Backpack,Accessories,4,2345.89,0,9383.56,Net Banking,Cancelled
+ORD00682,2026-07-14,Kabir,East,Backpack,Accessories,3,1969.01,0.05,5611.68,Debit Card,Completed
+ORD00311,2026-05-13,Rohan,East,Mouse,Accessories,1,930.74,0.15,791.13,Cash,Pending
+ORD00329,2026-05-12,Ishita,South,Desk,Furniture,1,17056.01,0.1,15350.41,UPI,Completed
+ORD00719,2026-05-17,Kabir,South,Mouse,Accessories,3,1166.82,0,3500.46,Debit Card,Cancelled
+ORD00501,2026-03-10,Kabir,South,Office Chair,Furniture,1,12865.92,0.05,12222.62,Cash,Completed
+ORD00907,2026-01-31,Diya,Central,Backpack,Accessories,1,2009.29,0.15,1707.9,UPI,Cancelled
+ORD00396,2026-04-27,Kabir,North,Headphones,Electronics,2,5692.16,0,11384.32,UPI,Pending
+ORD00708,2026-07-15,Kabir,North,Office Chair,Furniture,5,15267.08,0,76335.4,Credit Card,Completed
+ORD00369,2026-07-03,Rohan,West,Monitor,Electronics,4,16717.24,0.15,56838.62,Net Banking,Completed
+ORD00117,2026-02-02,Nisha,West,Tablet,Electronics,3,46554.17,0.15,118713.13,Credit Card,Cancelled
+ORD00571,2026-05-14,Priya,North,Tablet,Electronics,1,18111.07,0,18111.07,Cash,Completed
+ORD00081,2026-05-18,Rohan,North,Smart Watch,Electronics,4,7069.76,0.1,25451.14,Cash,Completed
+ORD00618,2026-01-15,Tanya,South,Monitor,Electronics,3,16955.08,0,50865.24,Debit Card,Completed
+ORD00556,2026-04-27,Diya,North,Keyboard,Accessories,2,1294.05,0,2588.1,Net Banking,Cancelled
+ORD00390,2026-05-04,Nisha,Central,Tablet,Electronics,4,27957.57,0.1,100647.25,Debit Card,Cancelled
+ORD00701,2026-03-10,Ananya,Central,Backpack,Accessories,5,3499.75,0.1,15748.88,Net Banking,Completed
+ORD00700,2026-06-20,Sneha,Central,Laptop,Electronics,3,82891.63,0,248674.89,UPI,Completed
+ORD00285,2026-03-26,Varun,North,Mouse,Accessories,4,818.96,0.05,3112.05,Debit Card,Completed
+ORD00022,2026-07-10,Varun,West,Smart Watch,Electronics,1,9886.0,0.15,8403.1,UPI,Completed
+ORD00780,2026-03-29,Meera,Central,Office Chair,Furniture,2,16810.26,0.15,28577.44,UPI,Pending
+ORD00321,2026-06-09,Rahul,West,Office Chair,Furniture,5,10065.6,0.05,47811.6,Credit Card,Pending
+ORD00140,2026-09-22,Tanya,North,Smart Watch,Electronics,4,5382.31,0.15,18299.85,Debit Card,Completed
+ORD00152,2026-06-22,Rohan,Central,Mouse,Accessories,5,2350.03,0.1,10575.14,Credit Card,Cancelled
+ORD00672,2026-09-13,Karan,Central,Monitor,Electronics,4,28246.81,0.05,107337.88,UPI,Completed
+ORD00803,2026-04-05,Ananya,South,Mouse,Accessories,3,2535.25,0.05,7225.46,Cash,Completed
+ORD00576,2026-08-05,Varun,South,Desk,Furniture,1,23585.55,0.05,22406.27,Debit Card,Completed
+ORD00373,2026-01-26,Aarav,Central,Headphones,Electronics,4,7253.04,0,29012.16,Credit Card,Completed
+ORD00833,2026-06-08,Priya,Central,Backpack,Accessories,2,2724.13,0,5448.26,Debit Card,Completed
+ORD00486,2026-02-08,Rohan,Central,Laptop,Electronics,2,64387.98,0.05,122337.16,Net Banking,Completed
+ORD00375,2026-04-12,Tanya,South,Desk,Furniture,4,17623.68,0.15,59920.51,Net Banking,Completed
+ORD00934,2026-07-18,Arjun,Central,Smart Watch,Electronics,1,11280.68,0.05,10716.65,UPI,Pending
+ORD00351,2026-01-30,Diya,Central,Headphones,Electronics,2,1983.04,0.05,3767.78,UPI,Completed
+ORD00955,2026-05-24,Ishita,Central,Tablet,Electronics,3,26309.18,0,78927.54,Credit Card,Pending
+ORD00725,2026-08-01,Ananya,East,Smart Watch,Electronics,3,6154.33,0.05,17539.84,Credit Card,Completed
+ORD00493,2026-04-06,Rahul,East,Backpack,Accessories,1,1142.09,0.1,1027.88,Net Banking,Pending
+ORD00063,2026-07-25,Priya,North,Smart Watch,Electronics,4,8404.76,0.05,31938.09,Cash,Pending
+ORD00680,2026-06-13,Diya,Central,Keyboard,Accessories,2,3135.25,0.1,5643.45,Debit Card,Completed
+ORD00250,2026-07-18,Aditya,North,Tablet,Electronics,1,39528.76,0.05,37552.32,Debit Card,Pending
+ORD00405,2026-03-09,Diya,North,Tablet,Electronics,3,36556.56,0.15,93219.23,Net Banking,Completed
+ORD00333,2026-05-17,Varun,South,Backpack,Accessories,2,3538.32,0.05,6722.81,Cash,Completed
+ORD00005,2026-07-10,Nisha,South,Smart Watch,Electronics,2,12893.81,0,25787.62,Credit Card,Completed
+ORD00839,2026-08-26,Priya,Central,Desk,Furniture,2,13300.25,0.15,22610.42,Credit Card,Completed
+ORD00034,2026-03-20,Varun,South,Monitor,Electronics,5,12198.0,0.05,57940.5,Debit Card,Completed
+ORD00031,2026-02-06,Rahul,West,Smart Watch,Electronics,2,13658.6,0.1,24585.48,Credit Card,Completed
+ORD00044,2026-04-20,Meera,East,Monitor,Electronics,1,26220.33,0.1,23598.3,Credit Card,Pending
+ORD00690,2026-09-26,Sneha,West,Headphones,Electronics,2,5069.11,0.1,9124.4,Debit Card,Completed
+ORD00438,2026-02-02,Kabir,Central,Smart Watch,Electronics,4,5395.31,0,21581.24,Debit Card,Completed
+ORD00775,2026-08-25,Aarav,East,Mouse,Accessories,2,1279.86,0.1,2303.75,Debit Card,Completed
+ORD00747,2026-03-10,Arjun,Central,Backpack,Accessories,1,2983.91,0.15,2536.32,Debit Card,Completed
+ORD00699,2026-08-26,Ananya,South,Mouse,Accessories,1,2850.4,0,2850.4,Debit Card,Cancelled
+ORD00472,2026-04-12,Tanya,West,Headphones,Electronics,1,7409.47,0,7409.47,Net Banking,Cancelled
+ORD00085,2026-05-11,Priya,East,Smart Watch,Electronics,1,13300.97,0.1,11970.87,UPI,Completed
+ORD00189,2026-08-20,Ishita,Central,Monitor,Electronics,4,33539.98,0.05,127451.92,UPI,Cancelled
+ORD00621,2026-05-06,Tanya,West,Smart Watch,Electronics,3,11302.15,0.05,32211.13,Net Banking,Completed
+ORD00306,2026-09-16,Karan,South,Mouse,Accessories,3,1116.14,0,3348.42,UPI,Cancelled
+ORD00524,2026-09-17,Ananya,Central,Monitor,Electronics,3,20964.08,0.15,53458.4,Cash,Completed
+ORD00395,2026-08-24,Kabir,East,Desk,Furniture,3,25122.43,0.1,67830.56,UPI,Completed
+ORD00234,2026-02-19,Priya,South,Desk,Furniture,5,9210.64,0,46053.2,Credit Card,Completed
+ORD00094,2026-01-10,Varun,North,Monitor,Electronics,5,33329.44,0.05,158314.84,Cash,Completed
+ORD00059,2026-05-06,Rohan,East,Keyboard,Accessories,4,4269.23,0.1,15369.23,UPI,Pending
+ORD00876,2026-04-19,Arjun,North,Backpack,Accessories,3,1462.92,0.15,3730.45,Net Banking,Completed
+ORD00760,2026-09-17,Ishita,West,Office Chair,Furniture,4,21594.29,0.1,77739.44,Debit Card,Pending
+ORD00045,2026-10-01,Priya,West,Tablet,Electronics,4,54774.4,0,219097.6,Credit Card,Completed
+ORD00240,2026-06-11,Aditya,West,Laptop,Electronics,1,82668.95,0,82668.95,UPI,Pending
+ORD00278,2026-06-02,Nisha,Central,Monitor,Electronics,5,32683.68,0.15,138905.64,UPI,Cancelled
+ORD00078,2026-07-07,Nisha,West,Smart Watch,Electronics,5,12329.29,0.1,55481.81,UPI,Completed
+ORD00569,2026-09-25,Aarav,South,Mouse,Accessories,1,1932.66,0.05,1836.03,Credit Card,Pending
+ORD00539,2026-03-14,Varun,East,Laptop,Electronics,5,82024.59,0.05,389616.8,Debit Card,Pending
+ORD00145,2026-01-17,Sneha,Central,Office Chair,Furniture,2,8777.62,0.1,15799.72,Net Banking,Completed
+ORD00112,2026-02-10,Diya,West,Monitor,Electronics,4,10954.76,0.05,41628.09,Net Banking,Completed
+ORD00862,2026-09-08,Nisha,East,Desk,Furniture,5,23669.97,0.15,100597.37,Debit Card,Completed
+ORD00554,2026-04-05,Rohan,East,Mouse,Accessories,5,2125.62,0,10628.1,Debit Card,Completed
+ORD00436,2026-07-01,Arjun,South,Smart Watch,Electronics,4,7710.25,0.1,27756.9,Credit Card,Cancelled
+ORD00210,2026-01-29,Meera,North,Office Chair,Furniture,5,7551.8,0.05,35871.05,Net Banking,Completed
+ORD00622,2026-01-03,Ishita,North,Keyboard,Accessories,1,4690.68,0.05,4456.15,Debit Card,Completed
+ORD00883,2026-02-25,Sneha,South,Tablet,Electronics,4,53518.36,0.05,203369.77,Net Banking,Completed
+ORD00810,2026-02-13,Aarav,West,Tablet,Electronics,2,38378.58,0,76757.16,Credit Card,Completed
+ORD00521,2026-02-13,Priya,Central,Headphones,Electronics,5,3251.82,0.05,15446.15,Credit Card,Completed
+ORD00813,2026-03-31,Karan,Central,Smart Watch,Electronics,4,14416.28,0,57665.12,Net Banking,Cancelled
+ORD00385,2026-04-28,Meera,West,Mouse,Accessories,1,1310.28,0.15,1113.74,Cash,Completed
+ORD00777,2026-02-19,Nisha,North,Mouse,Accessories,3,1471.91,0,4415.73,Net Banking,Cancelled
+ORD00322,2026-06-20,Rahul,East,Keyboard,Accessories,4,3160.4,0.15,10745.36,Debit Card,Cancelled
+ORD00796,2026-03-30,Nisha,North,Mouse,Accessories,1,1233.7,0.1,1110.33,Debit Card,Completed
+ORD00347,2026-01-30,Karan,South,Smart Watch,Electronics,2,12458.82,0.15,21179.99,UPI,Pending
+ORD00096,2026-05-10,Sneha,West,Desk,Furniture,5,16495.41,0.1,74229.35,Debit Card,Pending
+ORD00968,2026-05-08,Rohan,East,Office Chair,Furniture,5,21186.09,0.1,95337.4,Net Banking,Pending
+ORD00642,2026-06-13,Aditya,North,Smart Watch,Electronics,1,7393.14,0,7393.14,Cash,Completed
+ORD00283,2026-09-22,Rahul,Central,Desk,Furniture,4,17047.48,0.15,57961.43,UPI,Completed
+ORD00980,2026-02-17,Ishita,East,Desk,Furniture,3,8350.95,0.15,21294.92,Cash,Completed
+ORD00328,2026-03-06,Varun,East,Laptop,Electronics,3,89091.37,0,267274.11,Net Banking,Completed
+ORD00368,2026-08-18,Ananya,South,Headphones,Electronics,3,2042.87,0.1,5515.75,Credit Card,Completed
+ORD00970,2026-07-24,Rohan,South,Monitor,Electronics,4,29337.11,0,117348.44,Debit Card,Completed
+ORD00851,2026-09-16,Rahul,West,Office Chair,Furniture,1,17558.47,0.15,14924.7,Net Banking,Pending
+ORD00923,2026-06-10,Aditya,North,Office Chair,Furniture,2,17681.76,0,35363.52,Credit Card,Pending
+ORD00330,2026-07-27,Varun,West,Tablet,Electronics,5,33133.42,0.05,157383.74,Cash,Cancelled
+ORD00828,2026-07-01,Rohan,South,Headphones,Electronics,2,6202.35,0.15,10544.0,Net Banking,Completed
+ORD00450,2026-09-01,Meera,North,Office Chair,Furniture,4,9888.14,0.1,35597.3,Net Banking,Cancelled
+ORD00422,2026-09-24,Priya,East,Laptop,Electronics,2,55953.36,0.1,100716.05,Net Banking,Pending
+ORD00653,2026-05-15,Diya,Central,Office Chair,Furniture,2,20410.97,0,40821.94,Credit Card,Completed
+ORD00726,2026-05-23,Kabir,East,Laptop,Electronics,4,89325.44,0.05,339436.67,Cash,Pending
+ORD00300,2026-08-11,Varun,Central,Mouse,Accessories,2,1609.31,0.15,2735.83,Net Banking,Completed
+ORD00336,2026-09-30,Arjun,North,Headphones,Electronics,2,3107.46,0.15,5282.68,UPI,Completed
+ORD00183,2026-01-25,Varun,Central,Headphones,Electronics,1,8834.21,0.15,7509.08,Cash,Completed
+ORD00341,2026-09-01,Kabir,Central,Office Chair,Furniture,2,10647.8,0.1,19166.04,Debit Card,Completed
+ORD00465,2026-03-28,Diya,North,Keyboard,Accessories,2,1132.49,0.05,2151.73,UPI,Cancelled
+ORD00223,2026-02-20,Aarav,South,Mouse,Accessories,1,1423.21,0.1,1280.89,Credit Card,Completed
+ORD00908,2026-08-17,Kabir,West,Smart Watch,Electronics,1,7529.31,0.05,7152.84,Net Banking,Pending
+ORD00026,2026-08-15,Ishita,Central,Keyboard,Accessories,5,2509.83,0.1,11294.24,Credit Card,Cancelled
+ORD00297,2026-08-16,Nisha,Central,Keyboard,Accessories,5,2076.08,0.1,9342.36,UPI,Pending
+ORD00310,2026-06-17,Varun,South,Monitor,Electronics,4,17429.77,0.15,59261.22,UPI,Completed
+ORD00710,2026-01-05,Nisha,East,Desk,Furniture,5,23945.87,0.15,101769.95,Cash,Completed
+ORD00594,2026-07-18,Varun,East,Office Chair,Furniture,3,5538.37,0,16615.11,Credit Card,Completed
+ORD00213,2026-03-23,Ishita,South,Monitor,Electronics,4,16077.32,0.1,57878.35,UPI,Completed
+ORD00698,2026-08-17,Rohan,East,Smart Watch,Electronics,3,4042.13,0,12126.39,Net Banking,Completed
+ORD00532,2026-01-21,Nisha,West,Smart Watch,Electronics,5,10624.59,0.15,45154.51,Net Banking,Cancelled
+ORD00809,2026-06-03,Ananya,North,Mouse,Accessories,1,518.33,0.05,492.41,UPI,Completed
+ORD00074,2026-04-22,Sneha,Central,Laptop,Electronics,3,69320.44,0.15,176767.12,Debit Card,Cancelled
+ORD00518,2026-07-16,Tanya,Central,Desk,Furniture,1,8779.9,0.15,7462.91,Cash,Completed
+ORD00761,2026-05-05,Nisha,South,Laptop,Electronics,1,76167.6,0.05,72359.22,Debit Card,Completed
+ORD00337,2026-03-24,Rahul,Central,Keyboard,Accessories,5,2196.79,0.1,9885.56,Credit Card,Completed
+ORD00523,2026-01-05,Ananya,North,Keyboard,Accessories,1,1517.22,0,1517.22,Debit Card,Completed
+ORD00131,2026-07-27,Nisha,South,Laptop,Electronics,4,84575.21,0.05,321385.8,Credit Card,Pending
+ORD00156,2026-01-07,Sneha,North,Tablet,Electronics,1,40522.35,0.1,36470.11,Debit Card,Completed
+ORD00490,2026-02-04,Meera,South,Backpack,Accessories,4,1296.29,0.15,4407.39,Debit Card,Cancelled
+ORD00470,2026-07-23,Aditya,West,Headphones,Electronics,2,7076.8,0.15,12030.56,Debit Card,Cancelled
+ORD00302,2026-07-30,Ananya,South,Tablet,Electronics,3,52652.76,0.05,150060.37,Debit Card,Completed
+ORD00317,2026-03-31,Meera,East,Desk,Furniture,4,28710.37,0.15,97615.26,Cash,Cancelled
+ORD00452,2026-02-03,Rohan,West,Office Chair,Furniture,5,17030.66,0.1,76637.97,Credit Card,Cancelled
+ORD00893,2026-04-26,Nisha,East,Monitor,Electronics,5,14515.92,0.1,65321.64,UPI,Completed
+ORD00287,2026-01-26,Rahul,North,Laptop,Electronics,2,82976.22,0,165952.44,Credit Card,Completed
+ORD00049,2026-08-24,Ishita,South,Tablet,Electronics,2,26095.74,0.05,49581.91,Net Banking,Completed
+ORD00997,2026-01-06,Priya,North,Smart Watch,Electronics,5,4869.63,0.15,20695.93,Debit Card,Completed
+ORD00635,2026-03-09,Rohan,South,Mouse,Accessories,1,1394.84,0.05,1325.1,Net Banking,Completed
+ORD00070,2026-07-04,Ishita,Central,Tablet,Electronics,3,16777.72,0.1,45299.84,Credit Card,Completed
+ORD00354,2026-07-23,Tanya,West,Smart Watch,Electronics,5,3571.0,0.05,16962.25,Net Banking,Pending
+ORD00164,2026-06-13,Kabir,West,Laptop,Electronics,1,68993.23,0.05,65543.57,Debit Card,Pending
+ORD00982,2026-01-29,Karan,North,Headphones,Electronics,4,2131.15,0.1,7672.14,Cash,Completed
+ORD00382,2026-05-09,Ishita,North,Backpack,Accessories,1,3811.17,0.05,3620.61,Credit Card,Pending
+ORD00718,2026-03-31,Priya,South,Keyboard,Accessories,1,1788.83,0.1,1609.95,Debit Card,Completed
+ORD00137,2026-09-27,Kabir,North,Smart Watch,Electronics,3,2775.97,0.05,7911.51,Net Banking,Completed
+ORD00456,2026-03-08,Diya,East,Office Chair,Furniture,2,16109.87,0.1,28997.77,Credit Card,Completed
+ORD00940,2026-01-02,Sneha,East,Laptop,Electronics,4,61186.38,0.05,232508.24,Debit Card,Completed
+ORD00686,2026-05-22,Rohan,Central,Monitor,Electronics,2,32104.38,0.15,54577.45,Cash,Completed
+ORD00304,2026-01-31,Tanya,East,Smart Watch,Electronics,5,3227.81,0,16139.05,Cash,Completed
+ORD00628,2026-01-01,Aditya,South,Office Chair,Furniture,1,20800.03,0,20800.03,Net Banking,Completed
+ORD00872,2026-07-29,Karan,West,Backpack,Accessories,4,1234.71,0,4938.84,Net Banking,Completed
+ORD00826,2026-04-09,Ishita,East,Keyboard,Accessories,5,1371.0,0.05,6512.25,Credit Card,Completed
+ORD00606,2026-05-03,Ishita,West,Tablet,Electronics,5,43197.57,0.15,183589.67,Debit Card,Pending
+ORD00734,2026-01-02,Nisha,East,Smart Watch,Electronics,4,4210.83,0.15,14316.82,Net Banking,Completed
+ORD00869,2026-06-25,Rohan,North,Smart Watch,Electronics,5,3263.72,0,16318.6,Cash,Pending
+ORD00198,2026-04-22,Ishita,South,Smart Watch,Electronics,2,6875.19,0.15,11687.82,UPI,Completed
+ORD00068,2026-02-20,Aarav,Central,Keyboard,Accessories,1,3579.85,0.15,3042.87,Cash,Cancelled
+ORD00632,2026-05-28,Rahul,South,Mouse,Accessories,1,1179.92,0.1,1061.93,Cash,Completed
+ORD00076,2026-08-01,Meera,West,Headphones,Electronics,5,5825.87,0.05,27672.88,Cash,Completed
+ORD00815,2026-08-19,Ananya,West,Laptop,Electronics,2,80943.74,0.05,153793.11,UPI,Completed
+ORD00092,2026-04-13,Arjun,Central,Smart Watch,Electronics,5,5620.96,0.1,25294.32,Cash,Completed
+ORD00871,2026-03-02,Aarav,East,Monitor,Electronics,5,10151.73,0.15,43144.85,UPI,Cancelled
+ORD00100,2026-09-09,Kabir,East,Laptop,Electronics,2,83606.63,0.1,150491.93,Credit Card,Completed
+ORD00827,2026-08-29,Aarav,South,Smart Watch,Electronics,3,7540.01,0.05,21489.03,Credit Card,Completed
+ORD00040,2026-07-20,Ishita,East,Headphones,Electronics,2,7995.42,0.1,14391.76,Net Banking,Completed
+ORD00913,2026-09-22,Aditya,South,Mouse,Accessories,3,2707.97,0.1,7311.52,UPI,Cancelled
+ORD00118,2026-01-15,Varun,East,Office Chair,Furniture,2,12949.85,0,25899.7,Credit Card,Completed
+ORD00707,2026-01-06,Sneha,East,Mouse,Accessories,1,1317.74,0.05,1251.85,UPI,Cancelled
+ORD00535,2026-08-10,Tanya,North,Mouse,Accessories,4,1029.88,0.1,3707.57,UPI,Completed
+ORD00261,2026-08-15,Rohan,North,Backpack,Accessories,4,1217.13,0,4868.52,Debit Card,Completed
+ORD00269,2026-10-01,Diya,South,Keyboard,Accessories,5,4768.12,0.05,22648.57,Debit Card,Cancelled
+ORD00318,2026-03-11,Tanya,North,Mouse,Accessories,4,1530.86,0,6123.44,Cash,Completed
+ORD00007,2026-07-07,Tanya,Central,Headphones,Electronics,5,1917.47,0.1,8628.61,Credit Card,Completed
+ORD00361,2026-07-02,Sneha,West,Mouse,Accessories,2,629.48,0.05,1196.01,Net Banking,Completed
+ORD00386,2026-03-20,Karan,West,Headphones,Electronics,4,6644.19,0,26576.76,Debit Card,Completed
+ORD00196,2026-08-15,Nisha,East,Headphones,Electronics,2,4043.5,0,8087.0,Credit Card,Completed
+ORD00047,2026-08-21,Diya,Central,Tablet,Electronics,5,51592.99,0.15,219270.21,Debit Card,Completed
+ORD00154,2026-04-29,Ishita,South,Keyboard,Accessories,1,4477.11,0.05,4253.25,Cash,Completed
+ORD00911,2026-05-28,Diya,North,Office Chair,Furniture,2,5326.21,0,10652.42,Credit Card,Completed
+ORD00641,2026-02-28,Varun,Central,Headphones,Electronics,4,5251.51,0.05,19955.74,Cash,Completed
+ORD00905,2026-07-19,Tanya,West,Mouse,Accessories,5,417.26,0.05,1981.99,UPI,Cancelled
+ORD00926,2026-09-13,Meera,West,Tablet,Electronics,2,50826.8,0,101653.6,Net Banking,Completed
+ORD00998,2026-05-29,Aditya,South,Tablet,Electronics,3,37777.71,0.15,96333.16,Net Banking,Completed
+ORD00728,2026-08-27,Ananya,East,Backpack,Accessories,4,4733.39,0.15,16093.53,Debit Card,Completed
+ORD00434,2026-05-07,Ishita,South,Backpack,Accessories,5,2535.97,0,12679.85,Net Banking,Completed
+ORD00799,2026-04-22,Rohan,Central,Desk,Furniture,4,28473.14,0.1,102503.3,Cash,Completed
+ORD00536,2026-05-10,Karan,Central,Tablet,Electronics,3,39372.12,0,118116.36,UPI,Pending
+ORD00742,2026-04-29,Rohan,North,Laptop,Electronics,5,57715.9,0.15,245292.57,Credit Card,Completed
+ORD00267,2026-03-01,Aarav,South,Office Chair,Furniture,5,19805.91,0.15,84175.12,Credit Card,Completed
+ORD00664,2026-09-08,Varun,East,Desk,Furniture,1,24235.13,0.15,20599.86,Cash,Completed
+ORD00206,2026-09-12,Ananya,West,Office Chair,Furniture,4,12732.35,0.15,43289.99,UPI,Completed
+ORD00864,2026-06-01,Ananya,North,Mouse,Accessories,4,759.89,0,3039.56,Credit Card,Cancelled
+ORD00812,2026-02-26,Karan,East,Backpack,Accessories,4,2011.69,0.05,7644.42,Cash,Completed
+ORD00650,2026-05-21,Ananya,West,Smart Watch,Electronics,4,11100.83,0.05,42183.15,Net Banking,Completed
+ORD00629,2026-02-26,Rohan,North,Tablet,Electronics,3,42178.19,0,126534.57,UPI,Cancelled
+ORD00975,2026-07-20,Rahul,Central,Smart Watch,Electronics,4,6092.62,0.1,21933.43,UPI,Completed
+ORD00495,2026-06-10,Aarav,Central,Headphones,Electronics,2,8467.28,0.1,15241.1,UPI,Pending
+ORD00901,2026-07-12,Ananya,South,Mouse,Accessories,2,2365.89,0,4731.78,Debit Card,Cancelled
+ORD00363,2026-03-23,Kabir,South,Keyboard,Accessories,1,2941.54,0,2941.54,Credit Card,Completed
+ORD00013,2026-07-11,Sneha,West,Smart Watch,Electronics,4,8376.72,0.05,31831.54,Net Banking,Completed
+ORD00409,2026-07-14,Priya,East,Headphones,Electronics,4,8982.86,0.1,32338.3,Cash,Completed
+ORD00854,2026-02-06,Tanya,East,Headphones,Electronics,1,8747.14,0.05,8309.78,Net Banking,Cancelled
+ORD00308,2026-07-19,Rohan,East,Backpack,Accessories,3,2932.08,0.1,7916.62,Net Banking,Pending
+ORD00969,2026-04-26,Kabir,Central,Laptop,Electronics,4,63282.7,0.15,215161.18,Debit Card,Completed
+ORD00867,2026-05-06,Tanya,North,Laptop,Electronics,3,76348.97,0,229046.91,Debit Card,Completed
+ORD00006,2026-03-07,Meera,North,Backpack,Accessories,4,3300.59,0.15,11222.01,Credit Card,Completed
+ORD00952,2026-02-07,Sneha,Central,Keyboard,Accessories,4,2565.34,0,10261.36,Credit Card,Completed
+ORD00298,2026-08-24,Nisha,West,Laptop,Electronics,2,67487.75,0.1,121477.95,UPI,Cancelled
+ORD00345,2026-07-08,Ananya,Central,Backpack,Accessories,1,2577.29,0,2577.29,Net Banking,Completed
+ORD00089,2026-07-31,Ishita,Central,Office Chair,Furniture,1,20480.62,0,20480.62,UPI,Completed
+ORD00974,2026-06-17,Nisha,Central,Headphones,Electronics,1,1953.79,0.15,1660.72,Net Banking,Pending
+ORD00144,2026-08-24,Karan,East,Smart Watch,Electronics,5,6763.93,0.15,28746.7,Debit Card,Completed
+ORD00835,2026-06-01,Sneha,South,Tablet,Electronics,3,46021.59,0,138064.77,Net Banking,Cancelled
+ORD00868,2026-01-29,Nisha,Central,Backpack,Accessories,4,2123.97,0,8495.88,Debit Card,Completed
+ORD00865,2026-03-23,Varun,Central,Backpack,Accessories,1,2244.08,0.05,2131.88,Credit Card,Completed
+ORD00570,2026-03-07,Ishita,South,Monitor,Electronics,2,15646.41,0.15,26598.9,Cash,Pending
+ORD00163,2026-09-09,Aarav,North,Laptop,Electronics,1,67871.18,0.1,61084.06,Net Banking,Completed
+ORD00203,2026-06-09,Rahul,South,Backpack,Accessories,2,3350.36,0.05,6365.68,Cash,Completed
+ORD00042,2026-05-02,Priya,East,Keyboard,Accessories,2,993.61,0.15,1689.14,Cash,Completed
+ORD00139,2026-07-09,Rohan,North,Keyboard,Accessories,5,3551.56,0.1,15982.02,UPI,Completed
+ORD00039,2026-06-04,Ishita,North,Headphones,Electronics,4,1348.08,0.05,5122.7,Cash,Pending
+ORD00286,2026-03-18,Aarav,South,Smart Watch,Electronics,3,14165.87,0.05,40372.73,Credit Card,Completed
+ORD00259,2026-09-02,Rahul,Central,Keyboard,Accessories,2,755.93,0,1511.86,Cash,Pending
+ORD00811,2026-03-02,Rohan,East,Keyboard,Accessories,3,4692.87,0.1,12670.75,UPI,Completed
+ORD00892,2026-02-21,Ishita,Central,Mouse,Accessories,2,1451.83,0.15,2468.11,Credit Card,Completed
+ORD00663,2026-06-20,Arjun,East,Keyboard,Accessories,5,1346.36,0,6731.8,Cash,Completed
+ORD00925,2026-09-15,Ishita,East,Smart Watch,Electronics,1,10200.36,0,10200.36,Cash,Completed
+ORD00939,2026-07-26,Karan,East,Headphones,Electronics,1,8251.05,0.15,7013.39,Debit Card,Completed
+ORD00916,2026-06-13,Nisha,West,Keyboard,Accessories,4,4168.36,0.1,15006.1,UPI,Completed
+ORD00668,2026-10-01,Priya,South,Keyboard,Accessories,4,3679.82,0.1,13247.35,Credit Card,Completed
+ORD00463,2026-04-08,Ananya,Central,Tablet,Electronics,5,22390.36,0.05,106354.21,UPI,Completed
+ORD00448,2026-10-01,Ishita,East,Monitor,Electronics,3,21054.55,0.1,56847.28,UPI,Completed
+ORD00836,2026-09-02,Ananya,South,Laptop,Electronics,2,74554.95,0.05,141654.4,Cash,Pending
+ORD00062,2026-01-27,Meera,East,Backpack,Accessories,1,2566.17,0,2566.17,Debit Card,Completed
+ORD00413,2026-02-03,Varun,North,Smart Watch,Electronics,2,5560.58,0.15,9452.99,Debit Card,Completed
+ORD00064,2026-01-28,Priya,South,Headphones,Electronics,2,4629.6,0,9259.2,Debit Card,Completed
+ORD00858,2026-06-18,Ishita,North,Smart Watch,Electronics,2,9813.95,0.05,18646.51,UPI,Completed
+ORD00711,2026-06-18,Arjun,South,Mouse,Accessories,5,1867.19,0,9335.95,Net Banking,Completed
+ORD00381,2026-03-31,Meera,East,Mouse,Accessories,3,2349.29,0,7047.87,Cash,Completed
+ORD00859,2026-07-05,Rahul,North,Keyboard,Accessories,4,3279.26,0.05,12461.19,Net Banking,Completed
+ORD00963,2026-04-15,Rahul,West,Laptop,Electronics,4,81246.17,0,324984.68,Net Banking,Completed
+ORD00787,2026-07-26,Ishita,South,Keyboard,Accessories,1,1386.66,0.15,1178.66,UPI,Completed
+ORD00553,2026-08-08,Rahul,South,Office Chair,Furniture,3,6719.2,0,20157.6,UPI,Pending
+ORD00730,2026-01-23,Priya,East,Keyboard,Accessories,1,2415.17,0.15,2052.89,Debit Card,Pending
+ORD00379,2026-02-01,Karan,North,Smart Watch,Electronics,4,14696.13,0.05,55845.29,Net Banking,Completed
+ORD00277,2026-06-10,Tanya,East,Desk,Furniture,2,27109.76,0.05,51508.54,UPI,Completed
+ORD00494,2026-09-13,Arjun,West,Laptop,Electronics,1,56747.05,0.15,48234.99,Credit Card,Completed
+ORD00790,2026-02-24,Rohan,East,Mouse,Accessories,1,2845.28,0.1,2560.75,UPI,Completed
+ORD00983,2026-08-13,Rohan,South,Smart Watch,Electronics,2,2564.45,0.15,4359.56,Net Banking,Cancelled
+ORD00282,2026-09-08,Meera,South,Mouse,Accessories,2,1690.81,0.15,2874.38,Debit Card,Completed
+ORD00544,2026-07-01,Ananya,Central,Monitor,Electronics,3,11871.79,0.1,32053.83,Net Banking,Pending
+ORD00307,2026-02-27,Meera,West,Headphones,Electronics,2,1989.17,0.05,3779.42,Net Banking,Completed
+ORD00491,2026-06-03,Aarav,West,Desk,Furniture,2,28254.62,0.05,53683.78,UPI,Completed
+ORD00709,2026-05-07,Rohan,Central,Keyboard,Accessories,2,912.42,0.05,1733.6,Debit Card,Pending
+ORD00846,2026-06-24,Arjun,West,Office Chair,Furniture,3,13599.91,0.1,36719.76,UPI,Completed
+ORD00151,2026-06-01,Ishita,East,Tablet,Electronics,4,27472.31,0,109889.24,Debit Card,Cancelled
+ORD00389,2026-08-06,Varun,West,Laptop,Electronics,4,74922.95,0.1,269722.62,Net Banking,Completed
+ORD00471,2026-03-03,Varun,North,Desk,Furniture,1,9793.3,0.15,8324.3,Net Banking,Completed
+ORD00264,2026-06-25,Nisha,South,Office Chair,Furniture,4,9011.39,0.1,32441.0,Credit Card,Completed
+ORD00231,2026-05-29,Tanya,East,Backpack,Accessories,1,1127.71,0.15,958.55,Credit Card,Cancelled
+ORD00552,2026-08-15,Priya,Central,Desk,Furniture,1,13718.58,0.15,11660.79,Debit Card,Pending
+ORD00776,2026-02-01,Karan,West,Mouse,Accessories,1,2656.53,0,2656.53,Debit Card,Completed
+ORD00179,2026-01-05,Aditya,South,Keyboard,Accessories,2,3180.42,0.05,6042.8,Debit Card,Completed
+ORD00899,2026-01-07,Varun,North,Headphones,Electronics,1,7139.86,0.15,6068.88,UPI,Pending
+ORD00870,2026-08-09,Aarav,South,Monitor,Electronics,5,20997.43,0,104987.15,Debit Card,Cancelled
+ORD00758,2026-07-09,Ananya,East,Keyboard,Accessories,5,773.03,0,3865.15,Debit Card,Cancelled
+ORD00335,2026-06-27,Aditya,West,Headphones,Electronics,2,1724.51,0.15,2931.67,Net Banking,Completed
+ORD00853,2026-01-25,Nisha,South,Smart Watch,Electronics,5,14576.7,0.1,65595.15,Debit Card,Completed
+ORD00782,2026-07-13,Rohan,East,Monitor,Electronics,3,31772.06,0,95316.18,Credit Card,Completed
+ORD00088,2026-07-08,Meera,South,Headphones,Electronics,2,8277.94,0.1,14900.29,Cash,Completed
+ORD00654,2026-03-22,Rahul,East,Desk,Furniture,4,20238.16,0.05,76905.01,Net Banking,Completed
+ORD00066,2026-05-12,Meera,Central,Desk,Furniture,3,11695.48,0.1,31577.8,Credit Card,Completed
+ORD00752,2026-04-07,Arjun,South,Keyboard,Accessories,5,2025.39,0.1,9114.26,UPI,Completed
+ORD00292,2026-09-25,Meera,West,Tablet,Electronics,4,54820.58,0.05,208318.2,Cash,Pending
+ORD00692,2026-05-28,Tanya,South,Mouse,Accessories,2,833.87,0.1,1500.97,Credit Card,Cancelled
+ORD00772,2026-09-25,Diya,Central,Tablet,Electronics,4,18029.77,0.05,68513.13,UPI,Completed
+ORD00694,2026-02-07,Nisha,East,Smart Watch,Electronics,3,14558.3,0.15,37123.66,Credit Card,Cancelled
+ORD00411,2026-02-22,Ishita,North,Laptop,Electronics,3,62001.41,0.15,158103.6,UPI,Cancelled
+ORD00320,2026-06-11,Meera,North,Laptop,Electronics,3,74261.23,0.05,211644.51,Credit Card,Cancelled
+ORD00455,2026-03-17,Varun,Central,Office Chair,Furniture,3,21417.61,0.1,57827.55,Net Banking,Pending
+ORD00820,2026-09-28,Varun,East,Mouse,Accessories,3,2730.15,0,8190.45,Debit Card,Cancelled
+ORD00415,2026-01-11,Tanya,East,Monitor,Electronics,5,27709.43,0,138547.15,Credit Card,Completed
+ORD00004,2026-04-27,Rahul,East,Monitor,Electronics,1,16229.11,0,16229.11,Credit Card,Completed
+ORD00342,2026-01-19,Varun,Central,Smart Watch,Electronics,3,4367.33,0.15,11136.69,Credit Card,Completed
+ORD00583,2026-03-20,Ishita,South,Headphones,Electronics,3,5634.31,0.05,16057.78,Credit Card,Completed
+ORD00090,2026-02-07,Meera,East,Desk,Furniture,5,27306.55,0,136532.75,Debit Card,Pending
+ORD00625,2026-01-28,Varun,North,Headphones,Electronics,1,4524.82,0.05,4298.58,UPI,Completed
+ORD00290,2026-07-19,Priya,South,Monitor,Electronics,1,25652.31,0.1,23087.08,Credit Card,Pending
+ORD00633,2026-05-07,Meera,Central,Laptop,Electronics,5,70521.19,0.15,299715.06,Net Banking,Completed
+ORD00295,2026-02-07,Karan,Central,Monitor,Electronics,2,13343.22,0.15,22683.47,Credit Card,Completed
+ORD00015,2026-01-26,Varun,South,Desk,Furniture,2,16863.69,0.15,28668.27,Net Banking,Completed
+ORD00193,2026-02-07,Rohan,West,Smart Watch,Electronics,2,5133.31,0.15,8726.63,UPI,Cancelled
+ORD00793,2026-06-27,Varun,South,Monitor,Electronics,1,10966.02,0.05,10417.72,UPI,Completed
+ORD00036,2026-03-06,Aditya,Central,Monitor,Electronics,1,20236.69,0.1,18213.02,Cash,Pending
+ORD00418,2026-03-03,Kabir,West,Tablet,Electronics,3,21642.05,0.15,55187.23,Debit Card,Pending
+ORD00293,2026-02-26,Karan,North,Smart Watch,Electronics,1,7584.79,0.15,6447.07,Cash,Pending
+ORD00484,2026-05-03,Arjun,East,Keyboard,Accessories,4,3331.92,0,13327.68,UPI,Completed
+ORD00902,2026-07-07,Aarav,South,Desk,Furniture,4,7833.8,0.1,28201.68,Debit Card,Completed
+ORD00230,2026-09-17,Aditya,South,Office Chair,Furniture,5,7090.08,0.1,31905.36,Cash,Completed
+ORD00874,2026-08-26,Ishita,Central,Laptop,Electronics,1,61049.3,0.05,57996.83,Cash,Completed
+ORD00279,2026-06-24,Diya,North,Smart Watch,Electronics,2,6362.06,0.1,11451.71,Credit Card,Completed
+ORD00792,2026-03-14,Varun,East,Mouse,Accessories,5,2178.08,0.05,10345.88,Debit Card,Completed
+ORD00489,2026-09-09,Karan,Central,Office Chair,Furniture,5,10112.27,0.15,42977.15,Cash,Pending
+ORD00225,2026-03-11,Aarav,North,Backpack,Accessories,4,2378.69,0,9514.76,Net Banking,Completed
+ORD00148,2026-04-13,Arjun,West,Backpack,Accessories,3,1390.78,0,4172.34,Cash,Completed
+ORD00678,2026-09-11,Varun,North,Keyboard,Accessories,3,4792.79,0.1,12940.53,UPI,Pending
+ORD00574,2026-08-03,Karan,West,Keyboard,Accessories,4,1642.86,0.1,5914.3,Net Banking,Cancelled
+ORD00589,2026-02-02,Rohan,South,Smart Watch,Electronics,2,12243.86,0.05,23263.33,Net Banking,Completed
+ORD00643,2026-03-06,Tanya,South,Desk,Furniture,5,13022.23,0.1,58600.03,Debit Card,Cancelled
+ORD00442,2026-05-11,Ananya,West,Laptop,Electronics,4,89985.28,0.1,323947.01,Debit Card,Completed
+ORD00143,2026-08-29,Nisha,South,Office Chair,Furniture,1,19271.26,0.15,16380.57,Net Banking,Completed
+ORD00236,2026-02-16,Arjun,North,Laptop,Electronics,4,73938.62,0,295754.48,Credit Card,Completed
+ORD00023,2026-09-27,Tanya,North,Tablet,Electronics,5,47563.26,0.1,214034.67,Net Banking,Completed
+ORD00659,2026-02-09,Varun,Central,Monitor,Electronics,5,22607.75,0.15,96082.94,Debit Card,Pending
+ORD00343,2026-05-29,Aarav,Central,Headphones,Electronics,5,3382.58,0.05,16067.26,Cash,Completed
+ORD00380,2026-02-08,Diya,South,Mouse,Accessories,5,620.8,0.1,2793.6,Net Banking,Completed
+ORD00764,2026-04-01,Aditya,North,Headphones,Electronics,4,7196.27,0.05,27345.83,Credit Card,Completed
+ORD00685,2026-05-17,Kabir,Central,Backpack,Accessories,3,2279.88,0.05,6497.66,Debit Card,Cancelled
+ORD00079,2026-03-19,Aarav,North,Tablet,Electronics,2,51971.69,0.05,98746.21,UPI,Completed
+ORD00599,2026-06-23,Aditya,East,Office Chair,Furniture,2,21107.73,0.05,40104.69,Net Banking,Completed
+ORD00461,2026-02-20,Karan,East,Monitor,Electronics,5,18698.38,0.1,84142.71,Cash,Completed
+ORD00216,2026-03-30,Priya,South,Monitor,Electronics,4,24627.81,0.05,93585.68,Cash,Completed
+ORD00612,2026-01-22,Karan,North,Headphones,Electronics,1,4678.25,0.05,4444.34,Credit Card,Completed
+ORD00754,2026-01-27,Rahul,West,Mouse,Accessories,3,744.71,0.15,1899.01,Credit Card,Completed
+ORD00738,2026-09-10,Tanya,South,Mouse,Accessories,5,487.33,0.05,2314.82,Net Banking,Pending
+ORD00948,2026-08-26,Rahul,Central,Headphones,Electronics,3,7614.26,0.1,20558.5,Cash,Completed
+ORD00001,2026-05-11,Meera,East,Monitor,Electronics,4,26578.24,0.15,90366.02,Net Banking,Completed
+ORD00374,2026-05-16,Karan,East,Office Chair,Furniture,1,20058.58,0.1,18052.72,Net Banking,Completed
+ORD00275,2026-02-28,Aarav,East,Mouse,Accessories,3,677.98,0.05,1932.24,UPI,Completed
+ORD00593,2026-02-17,Rohan,Central,Laptop,Electronics,2,69220.2,0.15,117674.34,Debit Card,Completed
+ORD00119,2026-04-17,Nisha,East,Desk,Furniture,4,12051.4,0.1,43385.04,Credit Card,Completed
+ORD00971,2026-03-10,Meera,West,Laptop,Electronics,1,56035.45,0,56035.45,Debit Card,Completed
+ORD00723,2026-09-29,Karan,East,Tablet,Electronics,3,41156.59,0.15,104949.3,UPI,Completed
+ORD00406,2026-05-30,Tanya,Central,Mouse,Accessories,5,2099.3,0.05,9971.67,Debit Card,Completed
+ORD00072,2026-01-16,Rohan,Central,Tablet,Electronics,3,37990.56,0.1,102574.51,Credit Card,Pending
+ORD00615,2026-01-16,Tanya,North,Desk,Furniture,5,21768.0,0.1,97956.0,Debit Card,Completed
+ORD00575,2026-08-14,Aarav,North,Laptop,Electronics,3,86192.16,0.1,232718.83,Cash,Cancelled
+ORD00108,2026-09-15,Nisha,North,Backpack,Accessories,1,2452.69,0.15,2084.79,Cash,Completed
+ORD00640,2026-09-25,Kabir,Central,Headphones,Electronics,1,2607.18,0.1,2346.46,Debit Card,Completed
+ORD00475,2026-02-26,Meera,South,Backpack,Accessories,5,1273.06,0.15,5410.5,UPI,Completed
+ORD00197,2026-04-28,Ishita,West,Laptop,Electronics,1,62731.23,0,62731.23,Credit Card,Cancelled
+ORD00370,2026-08-07,Kabir,East,Monitor,Electronics,3,32506.56,0.05,92643.7,Cash,Completed
+ORD00667,2026-01-01,Nisha,North,Keyboard,Accessories,2,4396.95,0.1,7914.51,Debit Card,Completed
+ORD00195,2026-07-24,Rohan,South,Backpack,Accessories,3,2538.63,0.1,6854.3,Cash,Completed
+ORD00439,2026-07-02,Rohan,Central,Office Chair,Furniture,4,14220.5,0.05,54037.9,Credit Card,Completed
+ORD00217,2026-02-11,Tanya,South,Tablet,Electronics,3,29138.78,0.15,74303.89,Credit Card,Completed
+ORD00845,2026-08-25,Rahul,North,Monitor,Electronics,3,11547.0,0.05,32908.95,Net Banking,Completed
+ORD00991,2026-03-25,Rohan,North,Smart Watch,Electronics,4,7687.92,0.1,27676.51,Cash,Cancelled
+ORD00113,2026-07-15,Aditya,South,Smart Watch,Electronics,4,14256.69,0,57026.76,Debit Card,Completed
+ORD00356,2026-01-09,Sneha,Central,Mouse,Accessories,4,1932.83,0.1,6958.19,Cash,Completed
+ORD00110,2026-02-23,Arjun,West,Mouse,Accessories,2,2187.34,0.1,3937.21,UPI,Completed
+ORD00071,2026-06-03,Sneha,North,Mouse,Accessories,1,2952.46,0.05,2804.84,Credit Card,Completed
+ORD00232,2026-03-03,Ishita,Central,Office Chair,Furniture,4,21262.78,0.1,76546.01,UPI,Completed
+ORD00765,2026-06-19,Rohan,North,Office Chair,Furniture,5,7037.22,0.15,29908.18,Cash,Completed
+ORD00729,2026-06-05,Ananya,Central,Backpack,Accessories,4,4418.62,0,17674.48,Net Banking,Cancelled
+ORD00433,2026-07-18,Diya,West,Monitor,Electronics,1,26277.62,0.15,22335.98,Credit Card,Completed
+ORD00922,2026-05-01,Aarav,North,Backpack,Accessories,3,2556.19,0.1,6901.71,Debit Card,Completed
+ORD00609,2026-05-19,Ananya,North,Keyboard,Accessories,3,3178.62,0.1,8582.27,Credit Card,Cancelled
+ORD00825,2026-05-16,Aarav,East,Office Chair,Furniture,5,12671.87,0.05,60191.38,UPI,Cancelled
+ORD00687,2026-09-03,Ishita,South,Monitor,Electronics,5,10358.14,0.1,46611.63,Debit Card,Completed
+ORD00408,2026-06-14,Priya,South,Office Chair,Furniture,3,11730.61,0.15,29913.06,Debit Card,Completed
+ORD00479,2026-04-26,Rahul,West,Mouse,Accessories,3,2584.38,0.05,7365.48,Debit Card,Pending
+ORD00104,2026-09-13,Priya,South,Office Chair,Furniture,2,11200.88,0.15,19041.5,UPI,Completed
+ORD00887,2026-06-22,Rohan,North,Tablet,Electronics,5,45175.12,0.05,214581.82,Debit Card,Completed
+ORD00025,2026-09-06,Ananya,West,Mouse,Accessories,2,1647.92,0,3295.84,Net Banking,Completed
+ORD00054,2026-08-11,Rohan,North,Monitor,Electronics,3,13969.64,0,41908.92,Credit Card,Completed
+ORD00242,2026-01-20,Nisha,South,Backpack,Accessories,1,2146.04,0.05,2038.74,Credit Card,Cancelled
+ORD00973,2026-09-09,Arjun,West,Monitor,Electronics,5,32105.31,0.1,144473.9,Credit Card,Completed
+ORD00260,2026-03-25,Rohan,South,Mouse,Accessories,4,1426.58,0,5706.32,Net Banking,Completed
+ORD00176,2026-09-16,Rohan,Central,Tablet,Electronics,1,27885.22,0.1,25096.7,Net Banking,Pending
+ORD00407,2026-04-05,Meera,North,Desk,Furniture,1,9998.49,0.1,8998.64,Net Banking,Completed
+ORD00338,2026-05-19,Meera,South,Tablet,Electronics,2,42001.71,0.15,71402.91,Credit Card,Completed
+ORD00263,2026-07-07,Arjun,South,Office Chair,Furniture,1,6500.56,0.05,6175.53,Credit Card,Completed
+ORD00757,2026-03-28,Rahul,South,Keyboard,Accessories,4,1589.95,0.15,5405.83,Credit Card,Completed
+ORD00850,2026-07-30,Ananya,West,Headphones,Electronics,3,3359.14,0.05,9573.55,Cash,Completed
+ORD00132,2026-04-02,Rohan,Central,Tablet,Electronics,3,23969.25,0.15,61121.59,Credit Card,Completed
+ORD00944,2026-09-08,Ishita,North,Keyboard,Accessories,4,4642.75,0.15,15785.35,Net Banking,Completed
+ORD00702,2026-01-02,Ishita,North,Smart Watch,Electronics,5,10090.99,0.15,42886.71,Debit Card,Completed
+ORD00677,2026-04-13,Kabir,East,Keyboard,Accessories,2,3079.31,0,6158.62,Credit Card,Completed
+ORD00785,2026-03-17,Sneha,West,Monitor,Electronics,1,19149.05,0.15,16276.69,Cash,Completed
+ORD00706,2026-04-16,Rahul,West,Keyboard,Accessories,3,4799.02,0.05,13677.21,Cash,Pending
+ORD00949,2026-05-31,Ishita,North,Desk,Furniture,1,15922.7,0.15,13534.3,Net Banking,Completed
+ORD00705,2026-09-18,Aditya,East,Keyboard,Accessories,1,973.12,0.15,827.15,Cash,Completed
+ORD00371,2026-06-19,Karan,West,Monitor,Electronics,4,34747.53,0.1,125091.11,Cash,Completed
+ORD00900,2026-07-02,Nisha,Central,Backpack,Accessories,2,3655.71,0.1,6580.28,UPI,Completed
+ORD00477,2026-02-18,Rohan,West,Backpack,Accessories,3,1303.11,0,3909.33,Cash,Completed
+ORD00961,2026-03-11,Ananya,Central,Headphones,Electronics,5,8804.91,0.15,37420.87,UPI,Completed
+ORD00468,2026-08-06,Rohan,West,Monitor,Electronics,2,19362.17,0.05,36788.12,Credit Card,Cancelled
+ORD00585,2026-01-11,Ishita,West,Backpack,Accessories,3,1733.6,0.1,4680.72,Credit Card,Completed
+ORD00721,2026-02-09,Arjun,West,Tablet,Electronics,3,47092.86,0.15,120086.79,Net Banking,Cancelled
+ORD00401,2026-08-15,Ishita,Central,Laptop,Electronics,2,75913.79,0.15,129053.44,UPI,Pending
+ORD00002,2026-02-15,Priya,Central,Tablet,Electronics,5,54793.43,0.15,232872.08,Cash,Pending
+ORD00943,2026-01-27,Sneha,North,Headphones,Electronics,5,7526.8,0.05,35752.3,Net Banking,Completed
+ORD00487,2026-01-30,Tanya,West,Tablet,Electronics,4,21292.92,0.05,80913.1,Cash,Cancelled
+ORD00537,2026-03-27,Tanya,North,Tablet,Electronics,3,50247.6,0.15,128131.38,UPI,Cancelled
+ORD00724,2026-07-22,Priya,South,Smart Watch,Electronics,3,12778.48,0.1,34501.9,Credit Card,Pending
+ORD00732,2026-07-02,Sneha,North,Mouse,Accessories,1,1530.1,0,1530.1,Debit Card,Completed
+ORD00160,2026-07-02,Tanya,Central,Desk,Furniture,3,22790.31,0.05,64952.38,Cash,Completed
+ORD00842,2026-08-05,Varun,Central,Tablet,Electronics,1,15975.23,0,15975.23,UPI,Completed
+ORD00398,2026-03-01,Karan,Central,Keyboard,Accessories,5,1782.92,0,8914.6,Net Banking,Completed
+ORD00590,2026-09-08,Kabir,West,Tablet,Electronics,4,51996.93,0.1,187188.95,UPI,Completed
+ORD00449,2026-03-30,Aditya,West,Smart Watch,Electronics,1,14024.32,0,14024.32,Cash,Completed
+ORD00769,2026-01-08,Ananya,North,Smart Watch,Electronics,3,10359.16,0,31077.48,Debit Card,Completed
+ORD00099,2026-01-13,Diya,Central,Backpack,Accessories,5,3500.17,0.05,16625.81,Net Banking,Completed
+ORD00662,2026-09-14,Varun,East,Backpack,Accessories,4,1931.45,0.05,7339.51,Cash,Completed
+ORD00150,2026-07-25,Ananya,North,Laptop,Electronics,3,81408.44,0.05,232014.05,Net Banking,Completed
+ORD00327,2026-01-30,Rahul,North,Desk,Furniture,2,15256.52,0.1,27461.74,UPI,Completed
+ORD00348,2026-06-20,Kabir,South,Office Chair,Furniture,2,12279.12,0.05,23330.33,Net Banking,Pending
+ORD00313,2026-07-17,Arjun,East,Monitor,Electronics,1,29748.85,0.05,28261.41,Net Banking,Completed
+ORD00048,2026-07-08,Aditya,South,Headphones,Electronics,3,3392.65,0.1,9160.16,Debit Card,Pending
+ORD00528,2026-01-18,Rohan,Central,Headphones,Electronics,4,2138.92,0.15,7272.33,Debit Card,Cancelled
+ORD00744,2026-08-17,Diya,North,Mouse,Accessories,5,1583.98,0.1,7127.91,Debit Card,Completed
+ORD00046,2026-02-09,Aditya,West,Headphones,Electronics,3,1663.09,0,4989.27,Debit Card,Pending
+ORD00527,2026-01-17,Meera,North,Mouse,Accessories,4,1474.3,0.05,5602.34,Credit Card,Pending
+ORD00655,2026-07-20,Rahul,East,Tablet,Electronics,4,36671.19,0,146684.76,Credit Card,Completed
+ORD00182,2026-06-24,Aarav,East,Headphones,Electronics,4,7181.43,0.15,24416.86,Credit Card,Completed
+ORD00693,2026-02-04,Aditya,North,Headphones,Electronics,4,3021.74,0.15,10273.92,Cash,Completed
+ORD00098,2026-04-20,Rohan,Central,Office Chair,Furniture,5,5789.09,0.15,24603.63,Debit Card,Cancelled
+ORD00209,2026-05-24,Kabir,North,Backpack,Accessories,4,2121.43,0.05,8061.43,Debit Card,Completed
+ORD00453,2026-03-23,Ananya,West,Office Chair,Furniture,4,9383.64,0.05,35657.83,Debit Card,Completed
+ORD00627,2026-05-07,Tanya,North,Mouse,Accessories,4,506.98,0.05,1926.52,Credit Card,Pending
+ORD00822,2026-02-01,Diya,West,Office Chair,Furniture,5,20926.04,0.05,99398.69,Debit Card,Pending
+ORD00254,2026-01-04,Rahul,East,Headphones,Electronics,1,6813.32,0,6813.32,Credit Card,Completed
+ORD00387,2026-07-18,Nisha,East,Smart Watch,Electronics,1,9858.29,0.05,9365.38,Net Banking,Cancelled
+ORD00383,2026-06-18,Meera,South,Smart Watch,Electronics,4,6854.22,0.15,23304.35,UPI,Pending
